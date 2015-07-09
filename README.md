@@ -6,8 +6,8 @@ I've made this list to better keep track of the cool conferences I might have an
 
 ## 2015
 
-Conference | Dates | Proposal deadline | Location
------------|-------|-------------------|----------
+Conference | Dates | Proposals | Location
+-----------|-------|-----------|----------
 [NodeConf Adventure](http://nodeconf.com) | Jun 11th - 14th | N/A | Walker Creek Ranch, CA, USA
 [CC Camp](http://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13th - 17th | N/A | Mildenberg, Germany
 [NodeConf EU](http://nodeconf.eu) | Sep 6th - 9th | [Unknown](https://github.com/nodeconf/EU-CFP) | Waterford, Ireland
