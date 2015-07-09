@@ -1,4 +1,4 @@
-# hacker-conferences
+# Hacker Conferences
 
 This is a list of hacker worthy conferences mostly (but not limited to) the Node comunity.
 
