@@ -12,7 +12,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Christchurch ONE-SHOT](http://christchurch.nodeconf.com) | Mar 28th - 29th | Unknown | Christchurch, New Zealand
 [Fluent](http://fluentconf.com/javascript-html-2015) | Apr 20th - 22nd | Unknown | San Francisco, CA, USA
 [NodeConf Oslo ONE-SHOT](http://oslo.nodeconf.com) | May 23rd | Unknown | Oslo, Norway
-[NodeConf Adventure](http://nodeconf.com) | Jun 11th - 14th | N/A | Walker Creek Ranch, CA, USA
+[NodeConf Adventure](http://nodeconf.com) | Jun 11th - 14th | N/A | Petaluma, CA, USA
 [mloc.js](http://mloc-js.com/2015/) | Jun 18th - 19th | Unknown | Budapest, Hungary
 [CascadiaFest](http://2015.cascadiajs.com) | Jul 8th - 10th | Unknown | Blaine, WA, USA
 [CC Camp](http://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13th - 17th | N/A | Mildenberg, Germany
