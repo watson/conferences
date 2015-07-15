@@ -11,6 +11,7 @@ Conference | Dates | Proposals | Location
 [NodeSummit](http://nodesummit.com) | Feb 10th - 11th | Unknown | San Francisco, CA, USA
 [NodeConf Christchurch ONE-SHOT](http://christchurch.nodeconf.com) | Mar 28th - 29th | Unknown | Christchurch, New Zealand
 [Fluent](http://fluentconf.com/javascript-html-2015) | Apr 20th - 22nd | Unknown | San Francisco, CA, USA
+[CampJS](http://v.campjs.com) | May 22nd - 25th | Unknown | Melbourne, Australia
 [NodeConf Oslo ONE-SHOT](http://oslo.nodeconf.com) | May 23rd | Unknown | Oslo, Norway
 [NodeConf Adventure](http://nodeconf.com) | Jun 11th - 14th | N/A | Petaluma, CA, USA
 [mloc.js](http://mloc-js.com/2015/) | Jun 18th - 19th | Unknown | Budapest, Hungary
