@@ -19,8 +19,8 @@ Conference | Dates | Proposals | Location
 [CC Camp](http://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13th - 17th | N/A | Mildenberg, Germany
 [NodeConf EU](http://nodeconf.eu) | Sep 6th - 9th | [July 7th](https://github.com/nodeconf/EU-CFP) | Waterford, Ireland
 [JSConf EU](http://2015.jsconf.eu) | Sep 25th – 27th | [May 31st](http://2015.jsconf.eu/call-for-speakers/) | Berlin, Germany
-[JSConf Columbia](http://jsconf.co) | Oct 16th - 17th | [Jul 31st](http://cfp.jsconf.co/events) | Medellin, Columbia
 [Full Stack Fest](http://www.fullstackfest.com) | Sep 1st - 5th | Unknown | Barcelona, Spain
+[JSConf Columbia](http://jsconf.co) | Oct 16th - 17th | [Jul 31st](http://cfp.jsconf.co/events) | Medellin, Columbia
 [FullStack](https://skillsmatter.com/conferences/6612-fullstack) | Oct 26th - 28th | [Closed](https://skillsmatter.com/conferences/6612-fullstack#get_involved) | London, United Kingdom
 [JSConf Asia](http://2015.jsconf.asia) | Nov 19th - 20th | [Unknown](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | Singapore
 [dotJS](http://www.dotjs.io) | Dec 7th | Unknown | Paris, France
