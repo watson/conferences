@@ -18,8 +18,9 @@ Conference | Dates | Proposals | Location
 [CascadiaFest](http://2015.cascadiajs.com) | Jul 8th - 10th | Unknown | Blaine, WA, USA
 [CC Camp](http://events.ccc.de/camp/2015/wiki/Main_Page)* | Aug 13th - 17th | N/A | Mildenberg, Germany
 [Full Stack Fest](http://www.fullstackfest.com) | Sep 1st - 5th | Unknown | Barcelona, Spain
-[NodeConf EU](http://nodeconf.eu)** | Sep 6th - 9th | [July 7th](https://github.com/nodeconf/EU-CFP) | Waterford, Ireland
+[NodeConf EU](http://nodeconf.eu)** | Sep 6th - 9th | [Jul 7th](https://github.com/nodeconf/EU-CFP) | Waterford, Ireland
 [Nordic.js](http://nordicjs.com) | Sep 10th - 11th | [Unknown](https://docs.google.com/forms/d/1mX-lkI0jnpmtOBBjZAgGgs1A8V0dCUyQqC_MQ1QlCJY/viewform) | Stockholm, Sweden
+[Reject.JS](http://rejectjs.org) | Sep 24th | Jul 19th | Berlin, Germany
 [JSConf EU](http://2015.jsconf.eu)** | Sep 25th – 27th | [May 31st](http://2015.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [JSConf Columbia](http://jsconf.co) | Oct 16th - 17th | [Jul 31st](http://cfp.jsconf.co/events) | Medellin, Columbia
 [Empire Node](http://2015.empirenode.org) | Oct 23th | [Unknown](https://docs.google.com/forms/d/1qUgKrfhuAOpsmqCE-9blPOyd2m7WjeuaO7qBdDdmARM/viewform?edit_requested=true) | New York, US
