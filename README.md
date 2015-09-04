@@ -11,7 +11,7 @@ Conference | Dates | Proposals | Location
 [NodeSummit](http://nodesummit.com) | Feb 10th - 11th | Unknown | San Francisco, CA, USA
 [NodeConf Christchurch ONE-SHOT](http://christchurch.nodeconf.com) | Mar 28th - 29th | Unknown | Christchurch, New Zealand
 [Fluent](http://fluentconf.com/javascript-html-2015) | Apr 20th - 22nd | Unknown | San Francisco, CA, USA
-[CampJS](http://v.campjs.com) | May 22nd - 25th | Unknown | Melbourne, Australia
+[CampJS V](http://v.campjs.com) | May 22nd - 25th | Unknown | Melbourne, Australia
 [NodeConf Oslo ONE-SHOT](http://oslo.nodeconf.com) | May 23rd | Unknown | Oslo, Norway
 [NodeConf Adventure](http://nodeconf.com)** | Jun 11th - 14th | N/A | Petaluma, CA, USA
 [mloc.js](http://mloc-js.com/2015/) | Jun 18th - 19th | Unknown | Budapest, Hungary
@@ -27,6 +27,7 @@ Conference | Dates | Proposals | Location
 [FullStack](https://skillsmatter.com/conferences/6612-fullstack) | Oct 26th - 28th | [Closed](https://skillsmatter.com/conferences/6612-fullstack#get_involved) | London, United Kingdom
 [Nodevember](http://nodevember.org) | Nov 14th - 15th | [Aug 15th](https://www.papercall.io/nodevember) | Nashville, TN, USA
 [JSConf Asia](http://2015.jsconf.asia)* | Nov 19th - 20th | [Unknown](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | Singapore
+[CampJS VI](http://vi.campjs.com) | Nov 20th – 23rd | [Unknown](https://docs.google.com/forms/d/1BlN41m7Qw_ktXXtoUNvQ4PUI-RJ-eDXE3MQGOLb263c/viewform?c=0&w=1) | Springbrook, QLD, Australia
 [Codemotion Spain](http://2015.codemotion.es) | Nov 27th - 28th | [June 30th](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5685252034920448) | Madrid, Spain
 [dotJS](http://www.dotjs.io) | Dec 7th | Unknown | Paris, France
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
