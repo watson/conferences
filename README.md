@@ -16,7 +16,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Adventure](http://nodeconf.com)** | Jun 11th - 14th | N/A | Petaluma, CA, USA
 [mloc.js](http://mloc-js.com/2015/) | Jun 18th - 19th | Unknown | Budapest, Hungary
 [CascadiaFest](http://2015.cascadiajs.com) | Jul 8th - 10th | Unknown | Blaine, WA, USA
-[CC Camp](http://events.ccc.de/camp/2015/wiki/Main_Page)** | Aug 13th - 17th | N/A | Mildenberg, Germany
+[CC Camp](http://events.ccc.de/camp/2015/wiki/Main_Page)** | Aug 13th - 17th | Unknown | Mildenberg, Germany
 [Full Stack Fest](http://www.fullstackfest.com) | Sep 1st - 5th | Unknown | Barcelona, Spain
 [NodeConf EU](http://nodeconf.eu)*** | Sep 6th - 9th | [Jul 7th](https://github.com/nodeconf/EU-CFP) | Waterford, Ireland
 [Nordic.js](http://nordicjs.com) | Sep 10th - 11th | [Unknown](https://docs.google.com/forms/d/1mX-lkI0jnpmtOBBjZAgGgs1A8V0dCUyQqC_MQ1QlCJY/viewform) | Stockholm, Sweden
