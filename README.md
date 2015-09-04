@@ -23,7 +23,7 @@ Conference | Dates | Proposals | Location
 [Reject.JS](http://rejectjs.org) | Sep 24th | Jul 19th | Berlin, Germany
 [JSConf EU](http://2015.jsconf.eu)** | Sep 25th – 27th | [May 31st](http://2015.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [JSConf Columbia](http://jsconf.co) | Oct 16th - 17th | [Jul 31st](http://cfp.jsconf.co/events) | Medellin, Columbia
-[Empire Node](http://2015.empirenode.org) | Oct 23th | [Unknown](https://docs.google.com/forms/d/1qUgKrfhuAOpsmqCE-9blPOyd2m7WjeuaO7qBdDdmARM/viewform?edit_requested=true) | New York, US
+[Empire Node](http://2015.empirenode.org) | Oct 23th | [Sep 7th](https://docs.google.com/forms/d/1qUgKrfhuAOpsmqCE-9blPOyd2m7WjeuaO7qBdDdmARM/viewform?edit_requested=true) | New York, US
 [FullStack](https://skillsmatter.com/conferences/6612-fullstack) | Oct 26th - 28th | [Closed](https://skillsmatter.com/conferences/6612-fullstack#get_involved) | London, United Kingdom
 [Nodevember](http://nodevember.org) | Nov 14th - 15th | [Aug 15th](https://www.papercall.io/nodevember) | Nashville, TN, USA
 [JSConf Asia](http://2015.jsconf.asia) | Nov 19th - 20th | [Unknown](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | Singapore
