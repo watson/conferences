@@ -29,8 +29,8 @@ Conference | Dates | Proposals | Location
 [JSConf Asia](http://2015.jsconf.asia)* | Nov 19th - 20th | [Unknown](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | Singapore
 [Codemotion Spain](http://2015.codemotion.es) | Nov 27th - 28th | [June 30th](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5685252034920448) | Madrid, Spain
 [dotJS](http://www.dotjs.io) | Dec 7th | Unknown | Paris, France
+[CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
 [JSFest Oakland](http://jsfest.com) | TBA | TBA | Oakland, CA, USA
-[CC Congress](http://events.ccc.de) | TBA | TBA | Germany
 
 - * I've submitted a talk proposal :)
 - ** I'm attending :)
