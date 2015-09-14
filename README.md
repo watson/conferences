@@ -30,7 +30,7 @@ Conference | Dates | Proposals | Location
 [JSConf Asia](http://2015.jsconf.asia)* | Nov 19th - 20th | [Unknown](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | Singapore
 [CampJS VI](http://vi.campjs.com) | Nov 20th – 23rd | [Unknown](https://docs.google.com/forms/d/1BlN41m7Qw_ktXXtoUNvQ4PUI-RJ-eDXE3MQGOLb263c/viewform?c=0&w=1) | Springbrook, QLD, Australia
 [Codemotion Spain](http://2015.codemotion.es) | Nov 27th - 28th | [Jun 30th](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5685252034920448) | Madrid, Spain
-[JSConf US Last Call](http://lastcall.jsconf.us) | Dec 5th - 6th | [Sep 30th](http://lastcall.jsconf.us/call-for-speakers.html) | Portland, OR, USA
+[JSConf US Last Call](http://lastcall.jsconf.us) | Dec 5th - 6th | [Sep 30th](http://lastcall.jsconf.us/call-for-speakers.html) | Amelia Island, FL, USA
 [dotJS](http://www.dotjs.io) | Dec 7th | Unknown | Paris, France
 [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive) | Dec 8th - 9th | [Sep 24th](http://events.linuxfoundation.org/events/node-interactive/program/cfp) | Portland, OR, USA
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
