@@ -22,6 +22,7 @@ Conference | Dates | Proposals | Location
 [Nordic.js](http://nordicjs.com) | Sep 10th - 11th | [Unknown](https://docs.google.com/forms/d/1mX-lkI0jnpmtOBBjZAgGgs1A8V0dCUyQqC_MQ1QlCJY/viewform) | Stockholm, Sweden
 [Reject.JS](http://rejectjs.org) | Sep 24th | Jul 19th | Berlin, Germany
 [JSConf EU](http://2015.jsconf.eu)*** | Sep 25th – 27th | [May 31st](http://2015.jsconf.eu/call-for-speakers/) | Berlin, Germany
+[NodejsConfIT](http://nodejsconf.it) | Oct 10th | Unknown | Desenzano, Italy
 [JSConf Columbia](http://jsconf.co)* | Oct 16th - 17th | [Jul 31st](http://cfp.jsconf.co/events) | Medellin, Columbia
 [Empire Node](http://2015.empirenode.org)* | Oct 23th | [Sep 7th](https://docs.google.com/forms/d/1qUgKrfhuAOpsmqCE-9blPOyd2m7WjeuaO7qBdDdmARM/viewform?edit_requested=true) | New York, US
 [FullStack](https://skillsmatter.com/conferences/6612-fullstack) | Oct 26th - 28th | [Closed](https://skillsmatter.com/conferences/6612-fullstack#get_involved) | London, United Kingdom
