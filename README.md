@@ -35,7 +35,6 @@ Conference | Dates | Proposals | Location
 [dotJS](http://www.dotjs.io) | Dec 7th | Unknown | Paris, France
 [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive)*** | Dec 8th - 9th | [Sep 24th](http://events.linuxfoundation.org/events/node-interactive/program/cfp) | Portland, OR, USA
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
-[JSFest Oakland](http://jsfest.com) | TBA | TBA | Oakland, CA, USA
 
 - * I've submitted a talk proposal :)
 - ** I'm attending :)
