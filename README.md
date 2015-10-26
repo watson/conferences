@@ -30,6 +30,7 @@ Conference | Dates | Proposals | Location
 [Nodevember](http://nodevember.org)** | Nov 14th - 15th | [Aug 15th](https://www.papercall.io/nodevember) | Nashville, TN, USA
 [JSConf Asia](http://2015.jsconf.asia)* | Nov 19th - 20th | [Unknown](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | Singapore
 [CampJS VI](http://vi.campjs.com) | Nov 20th – 23rd | [Unknown](https://docs.google.com/forms/d/1BlN41m7Qw_ktXXtoUNvQ4PUI-RJ-eDXE3MQGOLb263c/viewform?c=0&w=1) | Springbrook, QLD, Australia
+[NodeConf Barcelona](http://barcelona.nodeconf.com) | Nov 21th | Unknown | Barcelona, Spain
 [Codemotion Spain](http://2015.codemotion.es) | Nov 27th - 28th | [Jun 30th](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5685252034920448) | Madrid, Spain
 [JSConf US Last Call](http://lastcall.jsconf.us)** | Dec 5th - 6th | [Sep 30th](http://lastcall.jsconf.us/call-for-speakers.html) | Amelia Island, FL, USA
 [dotJS](http://www.dotjs.io) | Dec 7th | Unknown | Paris, France
