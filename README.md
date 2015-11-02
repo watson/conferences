@@ -42,6 +42,7 @@ Conference | Dates | Proposals | Location
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
+[Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Unknown | San Francisco, CA, USA
 [Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | TBA | Oslo, Norway
 [NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | TBA | Oslo, Norway
 
