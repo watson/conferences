@@ -42,8 +42,8 @@ Conference | Dates | Proposals | Location
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
-[Web Rebels](https://www.webrebels.org) | June 2nd - 3rd | TBA | Oslo, Norway
-[NodeConf Oslo](http://oslo.nodeconf.com) | June 4th | TBA | Oslo, Norway
+[Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | TBA | Oslo, Norway
+[NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | TBA | Oslo, Norway
 
 - * I've submitted a talk proposal :)
 - ** I'm attending :)
