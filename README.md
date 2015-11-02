@@ -38,6 +38,13 @@ Conference | Dates | Proposals | Location
 [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive)*** | Dec 8th - 9th | [Sep 24th](http://events.linuxfoundation.org/events/node-interactive/program/cfp) | Portland, OR, USA
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
 
+## 2016
+
+Conference | Dates | Proposals | Location
+-----------|-------|-----------|----------
+[Web Rebels](https://www.webrebels.org) | June 2nd - 3rd | TBA | Oslo, Norway
+[NodeConf Oslo](http://oslo.nodeconf.com) | June 4th | TBA | Oslo, Norway
+
 - * I've submitted a talk proposal :)
 - ** I'm attending :)
 - *** I'm speaking :)
