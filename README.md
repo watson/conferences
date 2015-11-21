@@ -36,7 +36,7 @@ Conference | Dates | Proposals | Location
 [JSConf US Last Call](http://lastcall.jsconf.us)** | Dec 5th - 6th | [Sep 30th](http://lastcall.jsconf.us/call-for-speakers.html) | Amelia Island, FL, USA
 [dotJS](http://www.dotjs.io) | Dec 7th | Unknown | Paris, France
 [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive)*** | Dec 8th - 9th | [Sep 24th](http://events.linuxfoundation.org/events/node-interactive/program/cfp) | Portland, OR, USA
-[CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
+[CC Congress](http://events.ccc.de)** | Dec 27th - 30th | TBA | Hamburg, Germany
 
 ## 2016
 
