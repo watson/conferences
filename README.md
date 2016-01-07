@@ -4,6 +4,20 @@ This is a list of hacker worthy conferences mostly related (but not limited) to 
 
 I've made this list to better keep track of the conferences I might attend. Pull requests are welcome.
 
+## 2016
+
+Conference | Dates | Proposals | Location
+-----------|-------|-----------|----------
+[Arctic JS](http://arcticjs.club)*** | Jan 18th - 22nd | N/A | Longyearbyen, Svalbard
+[Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Unknown | San Francisco, CA, USA
+[JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary 
+[JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Unknown](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
+[OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
+[Signal](https://www.twilio.com/signal) | May 24th - 25th | [Dec 1st](https://www.twilio.com/signal/call-for-presenters) | San Francisco, CA, USA
+[Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | TBA | Oslo, Norway
+[NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | TBA | Oslo, Norway
+[Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 6th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
+
 ## 2015
 
 Conference | Dates | Proposals | Location
@@ -37,20 +51,6 @@ Conference | Dates | Proposals | Location
 [dotJS](http://www.dotjs.io) | Dec 7th | Unknown | Paris, France
 [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive)*** | Dec 8th - 9th | [Sep 24th](http://events.linuxfoundation.org/events/node-interactive/program/cfp) | Portland, OR, USA
 [CC Congress](http://events.ccc.de)** | Dec 27th - 30th | [Sep 30th](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fevents.ccc.de%2F2015%2F09%2F14%2F32c3-call-for-participation-de%2F&edit-text=&act=url) | Hamburg, Germany
-
-## 2016
-
-Conference | Dates | Proposals | Location
------------|-------|-----------|----------
-[Arctic JS](http://arcticjs.club)*** | Jan 18th - 22nd | N/A | Longyearbyen, Svalbard
-[Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Unknown | San Francisco, CA, USA
-[JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary 
-[JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Unknown](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
-[OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
-[Signal](https://www.twilio.com/signal) | May 24th - 25th | [Dec 1st](https://www.twilio.com/signal/call-for-presenters) | San Francisco, CA, USA
-[Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | TBA | Oslo, Norway
-[NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | TBA | Oslo, Norway
-[Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 6th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
 
 - * I've submitted a talk proposal :)
 - ** I'm attending :)
