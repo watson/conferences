@@ -42,6 +42,7 @@ Conference | Dates | Proposals | Location
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
+[Arctic JS](http://arcticjs.club)*** | Jan 18th - 22nd | N/A | Longyearbyen, Svalbard
 [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Unknown | San Francisco, CA, USA
 [JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary 
 [JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Unknown](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
