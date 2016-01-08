@@ -9,6 +9,7 @@ I've made this list to better keep track of the conferences I might attend. Pull
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [Arctic JS](http://arcticjs.club)*** | Jan 18th - 22nd | N/A | Longyearbyen, Svalbard
+[JSConf Beirut](http://www.jsconfbeirut.com) | Feb 6th - 7th | Unknown | Beirut, Lebanon
 [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Unknown | San Francisco, CA, USA
 [JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary 
 [JSConf Brugge](http://jsconf.be) | May 3rd | TBA | Brugge, Belgium
