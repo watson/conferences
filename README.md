@@ -17,7 +17,7 @@ Conference | Dates | Proposals | Location
 [JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Unknown](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
 [Signal](https://www.twilio.com/signal) | May 24th - 25th | [Dec 1st](https://www.twilio.com/signal/call-for-presenters) | San Francisco, CA, USA
-[Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | TBA | Oslo, Norway
+[Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | N/A | Oslo, Norway
 [NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | TBA | Oslo, Norway
 [NodeConf Adventure](http://nodeconf.com) | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [JSConf Iceland](http://jsconf.is) | TBA | TBA | Reykjavik, Iceland
