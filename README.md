@@ -15,6 +15,7 @@ Conference | Dates | Proposals | Location
 [Forward Summit](http://forwardjs.com/summit) | Feb 10th | Unknown | San Francisco, CA, USA
 [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Feb 22nd | San Francisco, CA, USA
 [JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary 
+[JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [JSConf Brugge](http://jsconf.be) | May 3rd | [E-mail](mailto:info@jsconf.be) | Brugge, Belgium
 [JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
