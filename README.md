@@ -21,6 +21,7 @@ Conference | Dates | Proposals | Location
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
 [Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | N/A | Oslo, Norway
 [NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | [Unknown](https://github.com/nodeconf/oslo/issues) | Oslo, Norway
+[JSCamp](http://www.jscamp.ro) | Jun 7th | Unknown | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com) | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [HOPE Conference](http://xi.hope.net) | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York, NY, USA
 [DEF CON](http://www.defcon.org) | Aug 4th - 7th | [Unknown](https://www.defcon.org/html/links/dc-speakerscorner.html#leah-cfp-process) | Las Vegas, NV, USA
