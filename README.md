@@ -20,7 +20,7 @@ Conference | Dates | Proposals | Location
 [Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | N/A | Oslo, Norway
 [NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | [Unknown](https://github.com/nodeconf/oslo/issues) | Oslo, Norway
 [NodeConf Adventure](http://nodeconf.com) | Jun 9th - 12th | N/A | Petaluma, CA, USA
-[Arctic JS Summer***](http://arcticjs.club)*** | TBA | TBA | TBA
+[Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
 [JSConf Iceland](http://jsconf.is) | TBA | TBA | Reykjavik, Iceland
 [NodeConf London](http://london.nodeconf.com) | TBA | TBA | London, United Kingdom
 [CascadiaFest](http://2016.cascadiajs.com) | TBA | TBA | North America
