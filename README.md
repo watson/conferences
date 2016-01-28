@@ -22,7 +22,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Adventure](http://nodeconf.com) | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [JSConf Iceland](http://jsconf.is) | TBA | TBA | Reykjavik, Iceland
 [NodeConf London](http://london.nodeconf.com) | TBA | TBA | London, United Kingdom
-[Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 6th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
+[Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
 
 ## 2015
 
