@@ -24,7 +24,7 @@ Conference | Dates | Proposals | Location
 [JSCamp](http://www.jscamp.ro) | Jun 7th | Unknown | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com) | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [HOPE Conference](http://xi.hope.net) | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York, NY, USA
-[npmCamp](http://npm.camp) | _July_ | [Mar 1st](http://npm.camp/cfp.html) | Bay Area, CA, USA
+[npmCamp](http://npm.camp)** | _July_ | [Mar 1st](http://npm.camp/cfp.html) | Bay Area, CA, USA
 [DEF CON](http://www.defcon.org) | Aug 4th - 7th | [Unknown](https://www.defcon.org/html/links/dc-speakerscorner.html#leah-cfp-process) | Las Vegas, NV, USA
 [Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
 [JSConf Iceland](http://jsconf.is) | TBA | TBA | Reykjavik, Iceland
