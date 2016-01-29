@@ -11,6 +11,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [Arctic JS](http://arcticjs.club)*** | Jan 19th - 21nd | N/A | Longyearbyen, Svalbard
+[FOSDEM](https://fosdem.org/2016/) | Jan 30th - 31st | Unknown | Brussels, Belgium
 [JSConf Beirut](http://www.jsconfbeirut.com) | Feb 6th - 7th | Unknown | Beirut, Lebanon
 [Forward Summit](http://forwardjs.com/summit) | Feb 10th | Unknown | San Francisco, CA, USA
 [SINFO](https://www.sinfo.org) | Feb 22nd - 26th | [E-mail](mailto:geral@sinfo.org) | Lisbon, Portugal
