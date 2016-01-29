@@ -13,6 +13,7 @@ Conference | Dates | Proposals | Location
 [Arctic JS](http://arcticjs.club)*** | Jan 19th - 21nd | N/A | Longyearbyen, Svalbard
 [JSConf Beirut](http://www.jsconfbeirut.com) | Feb 6th - 7th | Unknown | Beirut, Lebanon
 [Forward Summit](http://forwardjs.com/summit) | Feb 10th | Unknown | San Francisco, CA, USA
+[SINFO](https://www.sinfo.org) | Feb 22nd - 26th | [E-mail](mailto:geral@sinfo.org) | Lisbon, Portugal
 [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Feb 22nd | San Francisco, CA, USA
 [JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary 
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
