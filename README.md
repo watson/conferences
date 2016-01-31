@@ -16,8 +16,10 @@ Conference | Dates | Proposals | Location
 [Forward Summit](http://forwardjs.com/summit) | Feb 10th | Unknown | San Francisco, CA, USA
 [SINFO](https://www.sinfo.org) | Feb 22nd - 26th | [E-mail](mailto:geral@sinfo.org) | Lisbon, Portugal
 [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Feb 22nd | San Francisco, CA, USA
-[JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary 
+[Easterhegg](https://eh16.easterhegg.eu/) | Mar 25th - 28th | N/A | Salzburg, Austria
+[JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
+[SquatConf](http://squatconf.eu) | Apr 30th (TBA) | N/A | Berlin, Germany
 [JSConf Brugge](http://jsconf.be) | May 3rd | [E-mail](mailto:info@jsconf.be) | Brugge, Belgium
 [JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
 [Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
