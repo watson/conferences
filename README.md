@@ -4,24 +4,41 @@ This is a list of hacker worthy conferences mostly related (but not limited) to 
 
 I've made this list to better keep track of the conferences I might attend. Pull requests are welcome.
 
+I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferences) containing all the conferences from this list. If one is missing, please [open an issue](https://github.com/watson/hacker-conferences/issues/new).
+
 ## 2016
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [Arctic JS](http://arcticjs.club)*** | Jan 19th - 21nd | N/A | Longyearbyen, Svalbard
+[FOSDEM](https://fosdem.org/2016/) | Jan 30th - 31st | Unknown | Brussels, Belgium
 [JSConf Beirut](http://www.jsconfbeirut.com) | Feb 6th - 7th | Unknown | Beirut, Lebanon
 [Forward Summit](http://forwardjs.com/summit) | Feb 10th | Unknown | San Francisco, CA, USA
-[Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Unknown | San Francisco, CA, USA
+[SINFO](https://www.sinfo.org) | Feb 22nd - 26th | [E-mail](mailto:geral@sinfo.org) | Lisbon, Portugal
+[Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Feb 22nd | San Francisco, CA, USA
 [JSConf Uruguary](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguary 
-[JSConf Brugge](http://jsconf.be) | May 3rd | TBA | Brugge, Belgium
-[JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Unknown](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
+[JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
+[JSConf Brugge](http://jsconf.be) | May 3rd | [E-mail](mailto:info@jsconf.be) | Brugge, Belgium
+[JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
+[Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
-[Signal](https://www.twilio.com/signal) | May 24th - 25th | [Dec 1st](https://www.twilio.com/signal/call-for-presenters) | San Francisco, CA, USA
-[Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | TBA | Oslo, Norway
-[NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | TBA | Oslo, Norway
+[ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
+[Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | N/A | Oslo, Norway
+[NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | [Unknown](https://github.com/nodeconf/oslo/issues) | Oslo, Norway
+[JSCamp](http://www.jscamp.ro) | Jun 7th | Unknown | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com) | Jun 9th - 12th | N/A | Petaluma, CA, USA
+[HOPE Conference](http://xi.hope.net) | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York, NY, USA
+[Dinosaur.js](http://dinosaurjs.org) | Jun 24th | TBA | Denver, CO, USA
+[npmCamp](http://npm.camp)** | _July_ | [Mar 1st](http://npm.camp/cfp.html) | Bay Area, CA, USA
+[DEF CON](http://www.defcon.org) | Aug 4th - 7th | [Unknown](https://www.defcon.org/html/links/dc-speakerscorner.html#leah-cfp-process) | Las Vegas, NV, USA
+[Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
 [JSConf Iceland](http://jsconf.is) | TBA | TBA | Reykjavik, Iceland
-[Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 6th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
+[NodeConf London](http://london.nodeconf.com) | TBA | TBA | London, United Kingdom
+[CascadiaFest](http://2016.cascadiajs.com) | TBA | TBA | North America
+[Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
+[Nordic.js](http://nordicjs.com) | Sep 8th - 9th | [Unknown](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
+JSConf Asia | TBA | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
+[CC Congress](http://events.ccc.de) | TBA | TBA | Hamburg, Germany
 
 ## 2015
 
