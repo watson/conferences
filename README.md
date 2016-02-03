@@ -34,7 +34,7 @@ Conference | Dates | Proposals | Location
 [npmCamp](http://npm.camp)** | _July_ | [Mar 1st](http://npm.camp/cfp.html) | Bay Area, CA, USA
 [DEF CON](http://www.defcon.org) | Aug 4th - 7th | [Unknown](https://www.defcon.org/html/links/dc-speakerscorner.html#leah-cfp-process) | Las Vegas, NV, USA
 [Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
-[JSConf Iceland](http://jsconf.is) | TBA | TBA | Reykjavik, Iceland
+[JSConf Iceland](http://jsconf.is) | Aug 25th - 26th | TBA | Reykjavik, Iceland
 [NodeConf London](http://london.nodeconf.com) | TBA | TBA | London, United Kingdom
 [CascadiaFest](http://2016.cascadiajs.com) | TBA | TBA | North America
 [Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
