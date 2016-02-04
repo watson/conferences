@@ -26,7 +26,7 @@ Conference | Dates | Proposals | Location
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
 [ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
 [Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | N/A | Oslo, Norway
-[NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | [Unknown](https://github.com/nodeconf/oslo/issues) | Oslo, Norway
+[NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | [Unknown](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
 [JSCamp](http://www.jscamp.ro) | Jun 7th | Unknown | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com) | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [HOPE Conference](http://xi.hope.net) | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York, NY, USA
