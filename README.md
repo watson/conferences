@@ -14,7 +14,7 @@ Conference | Dates | Proposals | Location
 [FOSDEM](https://fosdem.org/2016/) | Jan 30th - 31st | Unknown | Brussels, Belgium
 [JSConf Beirut](http://www.jsconfbeirut.com) | Feb 6th - 7th | Unknown | Beirut, Lebanon
 [Forward Summit](http://forwardjs.com/summit) | Feb 10th | Unknown | San Francisco, CA, USA
-[SINFO](https://www.sinfo.org) | Feb 22nd - 26th | [E-mail](mailto:geral@sinfo.org) | Lisbon, Portugal
+[SINFO](https://www.sinfo.org)*** | Feb 22nd - 26th | [E-mail](mailto:geral@sinfo.org) | Lisbon, Portugal
 [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Feb 22nd | San Francisco, CA, USA
 [Easterhegg](https://eh16.easterhegg.eu/) | Mar 25th - 28th | N/A | Salzburg, Austria
 [JSConf Uruguay](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
