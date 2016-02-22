@@ -29,7 +29,7 @@ Conference | Dates | Proposals | Location
 [Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | N/A | Oslo, Norway
 [NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | [Unknown](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
 [JSCamp](http://www.jscamp.ro) | Jun 7th | Unknown | Bucharest, Romania
-[NodeConf Adventure](http://nodeconf.com) | Jun 9th - 12th | N/A | Petaluma, CA, USA
+[NodeConf Adventure](http://nodeconf.com)* | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [HOPE Conference](http://xi.hope.net) | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York, NY, USA
 [NodeSummit](http://nodesummit.com/) | Jul 26nd - 28th | [Unknown](http://nodesummit.com/nodetalks/submission-form/) | San Fransico, SF, USA
 [Dinosaur.js](http://dinosaurjs.org) | Jun 24th | TBA | Denver, CO, USA
