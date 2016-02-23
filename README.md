@@ -25,7 +25,7 @@ Conference | Dates | Proposals | Location
 [JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
 [Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
-[EmpireJS](http://2016.empirejs.org) | May 26th - 27th | [Feb 21st](https://speak.empirejs.org/) | New York, US
+[EmpireJS](http://2016.empirejs.org) | May 26th - 27th | [Feb 21st](https://speak.empirejs.org/) | New York, USA
 [ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
 [Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | N/A | Oslo, Norway
 [NodeConf Oslo](http://oslo.nodeconf.com) | Jun 4th | [Unknown](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
@@ -69,7 +69,7 @@ Conference | Dates | Proposals | Location
 [JSConf EU](http://2015.jsconf.eu)*** | Sep 25th – 27th | [May 31st](http://2015.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [NodejsConfIT](http://nodejsconf.it) | Oct 10th | Unknown | Desenzano, Italy
 [JSConf Columbia](http://jsconf.co)* | Oct 16th - 17th | [Jul 31st](http://cfp.jsconf.co/events) | Medellin, Columbia
-[Empire Node](http://2015.empirenode.org)* | Oct 23th | [Sep 7th](https://docs.google.com/forms/d/1qUgKrfhuAOpsmqCE-9blPOyd2m7WjeuaO7qBdDdmARM/viewform?edit_requested=true) | New York, US
+[Empire Node](http://2015.empirenode.org)* | Oct 23th | [Sep 7th](https://docs.google.com/forms/d/1qUgKrfhuAOpsmqCE-9blPOyd2m7WjeuaO7qBdDdmARM/viewform?edit_requested=true) | New York, USA
 [FullStack](https://skillsmatter.com/conferences/6612-fullstack) | Oct 26th - 28th | [Closed](https://skillsmatter.com/conferences/6612-fullstack#get_involved) | London, United Kingdom
 [NodeFest](http://nodefest.jp/2015/) | Nov 7th | Sep 30th | Tokyo, Japan
 [Nodevember](http://nodevember.org)** | Nov 14th - 15th | [Aug 15th](https://www.papercall.io/nodevember) | Nashville, TN, USA
