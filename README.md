@@ -25,6 +25,7 @@ Conference | Dates | Proposals | Location
 [JSConf Budapest](http://jsconfbp.com) | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
 [Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
+[AtTheFrontend](http://www.atthefrontend.dk) | May 24th - 25th | [Mar 31st](http://www.atthefrontend.dk/call-for-papers/) | Copenhagen, Denmark
 [EmpireJS](http://2016.empirejs.org) | May 26th - 27th | [Feb 21st](https://speak.empirejs.org/) | New York City, NY, USA
 [ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
 [Web Rebels](https://www.webrebels.org) | Jun 2nd - 3rd | N/A | Oslo, Norway
