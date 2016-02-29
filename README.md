@@ -39,6 +39,7 @@ Conference | Dates | Proposals | Location
 [Electromagnetic Field](https://www.emfcamp.org/)| Aug 5th - 7th | Unknown | Loseley Park, Guildford, United Kingdom
 [Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
 [JSConf Iceland](http://jsconf.is)* | Aug 25th - 26th | [Apr 30th](https://2016.jsconf.is/speakers) | Reykjavik, Iceland
+[BrazilJS](https://braziljs.org/conf?lang=en) | Aug 26th - 27th | Unknown | Porto Alegre, Brazil
 [NodeConf London](http://london.nodeconf.com) | TBA | TBA | London, United Kingdom
 [CascadiaFest](http://2016.cascadiajs.com) | TBA | TBA | North America
 [Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
