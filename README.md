@@ -36,7 +36,7 @@ Conference | Dates | Proposals | Location
 [NodeSummit](http://nodesummit.com/) | Jul 26nd - 28th | [Unknown](http://nodesummit.com/nodetalks/submission-form/) | San Fransico, SF, USA
 [Dinosaur.js](http://dinosaurjs.org) | Jun 24th | TBA | Denver, CO, USA
 [npmCamp](http://npm.camp)** | Jul 30th | [Mar 1st](http://npm.camp/cfp.html) | Oakland, CA, USA
-[DEF CON](http://www.defcon.org) | Aug 4th - 7th | [Unknown](https://www.defcon.org/html/links/dc-speakerscorner.html#leah-cfp-process) | Las Vegas, NV, USA
+[DEF CON](http://www.defcon.org) | Aug 4th - 7th | [May 2nd](https://www.defcon.org/html/defcon-24/dc-24-cfp.html) | Las Vegas, NV, USA
 [Electromagnetic Field](https://www.emfcamp.org/)| Aug 5th - 7th | Unknown | Loseley Park, Guildford, United Kingdom
 [Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
 [JSConf Iceland](http://jsconf.is)** | Aug 25th - 26th | [Apr 30th](https://2016.jsconf.is/speakers) | Reykjavik, Iceland
