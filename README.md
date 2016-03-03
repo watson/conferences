@@ -33,7 +33,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Oslo](http://oslo.nodeconf.com)** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
 [JSCamp](http://www.jscamp.ro) | Jun 7th | Unknown | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com)* | Jun 9th - 12th | N/A | Petaluma, CA, USA
-[HOPE Conference](http://xi.hope.net) | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York City, NY, USA
+[HOPE Conference](http://xi.hope.net)** | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York City, NY, USA
 [NodeSummit](http://nodesummit.com/) | Jul 26nd - 28th | [Unknown](http://nodesummit.com/nodetalks/submission-form/) | San Fransico, SF, USA
 [Dinosaur.js](http://dinosaurjs.org) | Jun 24th | TBA | Denver, CO, USA
 [npmCamp](http://npm.camp)** | Jul 30th | [Mar 1st](http://npm.camp/cfp.html) | Oakland, CA, USA
