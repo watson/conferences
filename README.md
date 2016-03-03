@@ -45,7 +45,7 @@ Conference | Dates | Proposals | Location
 [NodeConf London](http://london.nodeconf.com) | TBA | TBA | London, United Kingdom
 [CascadiaFest](http://2016.cascadiajs.com) | TBA | TBA | North America
 [Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
-[Nordic.js](http://nordicjs.com) | Sep 8th - 9th | [Apr 30th](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
+[Nordic.js](http://nordicjs.com)** | Sep 8th - 9th | [Apr 30th](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
 [BalCCon](https://balccon.org) | Sep 9th - 11th | Unknown | Novi Sad, Serbia
 JSConf Asia | TBA | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [CC Congress](http://events.ccc.de) | TBA | TBA | Hamburg, Germany
