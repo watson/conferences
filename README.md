@@ -30,7 +30,7 @@ Conference | Dates | Proposals | Location
 [ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
 [CSSConf Nordic](http://cssconf.no)* | Jun 1st | Unknown | Oslo, Norway
 [Web Rebels](https://www.webrebels.org)* | Jun 2nd - 3rd | N/A | Oslo, Norway
-[NodeConf Oslo](http://oslo.nodeconf.com)** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
+[NodeConf Oslo](http://oslo.nodeconf.com)*/** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
 [JSCamp](http://www.jscamp.ro) | Jun 7th | Unknown | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com)* | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [HOPE Conference](http://xi.hope.net) | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York City, NY, USA
