@@ -39,7 +39,7 @@ Conference | Dates | Proposals | Location
 [DEF CON](http://www.defcon.org) | Aug 4th - 7th | [Unknown](https://www.defcon.org/html/links/dc-speakerscorner.html#leah-cfp-process) | Las Vegas, NV, USA
 [Electromagnetic Field](https://www.emfcamp.org/)| Aug 5th - 7th | Unknown | Loseley Park, Guildford, United Kingdom
 [Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
-[JSConf Iceland](http://jsconf.is)* | Aug 25th - 26th | [Apr 30th](https://2016.jsconf.is/speakers) | Reykjavik, Iceland
+[JSConf Iceland](http://jsconf.is)** | Aug 25th - 26th | [Apr 30th](https://2016.jsconf.is/speakers) | Reykjavik, Iceland
 [BrazilJS](https://braziljs.org/conf?lang=en) | Aug 26th - 27th | Unknown | Porto Alegre, Brazil
 [NodeConf London](http://london.nodeconf.com) | TBA | TBA | London, United Kingdom
 [CascadiaFest](http://2016.cascadiajs.com) | TBA | TBA | North America
