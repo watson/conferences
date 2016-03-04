@@ -21,7 +21,7 @@ Conference | Dates | Proposals | Location
 [JSConf Uruguay](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [SquatConf](http://squatconf.eu) | Apr 30th (TBA) | N/A | Berlin, Germany
-[NodeConf Argentina](https://twitter.com/nodeconfar) | _spring_ | TBA | Buenos Aires, Argentina
+[NodeConf Argentina](https://twitter.com/nodeconfar) | TBA _(spring)_ | TBA | Buenos Aires, Argentina
 [JSConf Brugge](https://jsconf.be)** | May 3rd | [Unknown](https://jsconf.be/nl/#callforpapers) | Brugge, Belgium
 [JSConf Budapest](http://jsconfbp.com)** | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
 [Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
