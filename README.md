@@ -21,6 +21,7 @@ Conference | Dates | Proposals | Location
 [JSConf Uruguay](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [SquatConf](http://squatconf.eu) | TBA _(Apr 30th)_ | N/A | Berlin, Germany
+[BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
 [NodeConf Argentina](https://twitter.com/nodeconfar) | TBA _(spring)_ | TBA | Buenos Aires, Argentina
 [JSConf Brugge](https://jsconf.be)** | May 3rd | [Unknown](https://jsconf.be/nl/#callforpapers) | Brugge, Belgium
 [JSConf Budapest](http://jsconfbp.com)** | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
@@ -49,6 +50,7 @@ Conference | Dates | Proposals | Location
 [Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
 [Nordic.js](http://nordicjs.com)** | Sep 8th - 9th | [Apr 30th](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
 [BalCCon](https://balccon.org) | Sep 9th - 11th | Unknown | Novi Sad, Serbia
+[Parallel Polis Congress 2016](http://www.hcpp.cz/) | Sep 30th - Oct 2nd | Unknown | Prague, Czechia
 JSConf Asia | TBA | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [CC Congress](http://events.ccc.de) | TBA | TBA | Hamburg, Germany
 
