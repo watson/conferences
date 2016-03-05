@@ -17,7 +17,7 @@ Conference | Dates | Proposals | Location
 [SINFO](https://www.sinfo.org)*** | Feb 22nd - 26th | [E-mail](mailto:geral@sinfo.org) | Lisbon, Portugal
 [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Feb 22nd | San Francisco, CA, USA
 [Easterhegg](https://eh16.easterhegg.eu/) | Mar 25th - 28th | N/A | Salzburg, Austria
-[Node.js Live Paris](http://live.nodejs.org/events/paris.html)* | Apr 14th | Unknown | Paris, France
+[Node.js Live Paris](http://live.nodejs.org/events/paris.html)* | Apr 14th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Paris, France
 [JSConf Uruguay](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [SquatConf](http://squatconf.eu) | TBA _(Apr 30th)_ | N/A | Berlin, Germany
@@ -34,7 +34,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Oslo](http://oslo.nodeconf.com)** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
 [JSCamp](http://www.jscamp.ro)** | Jun 7th | N/A | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com)* | Jun 9th - 12th | N/A | Petaluma, CA, USA
-[Node.js Live London](http://live.nodejs.org/events/london.html) | TBA _(July)_ | Unknown | London, England
+[Node.js Live London](http://live.nodejs.org/events/london.html) | TBA _(July)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | London, England
 [HOPE Conference](http://xi.hope.net)** | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York City, NY, USA
 [NodeSummit](http://nodesummit.com/) | Jul 26nd - 28th | [Unknown](http://nodesummit.com/nodetalks/submission-form/) | San Fransico, SF, USA
 [Dinosaur.js](http://dinosaurjs.org) | Jun 24th | [Mar 14th](http://speak.dinosaurjs.org/events/dinosaurjs-2016) | Denver, CO, USA
