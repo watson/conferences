@@ -17,7 +17,7 @@ Conference | Dates | Proposals | Location
 [SINFO](https://www.sinfo.org)*** | Feb 22nd - 26th | [E-mail](mailto:geral@sinfo.org) | Lisbon, Portugal
 [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us) | Mar 8th - 10th | Feb 22nd | San Francisco, CA, USA
 [Easterhegg](https://eh16.easterhegg.eu/) | Mar 25th - 28th | N/A | Salzburg, Austria
-[Node.js Live Paris](http://live.nodejs.org/events/paris.html)* | Apr 14th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Paris, France
+[Node.js Live Paris](http://live.nodejs.org/events/paris.html)** | Apr 14th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Paris, France
 [JSConf Uruguay](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [SquatConf](http://squatconf.eu) | TBA _(Apr 30th)_ | N/A | Berlin, Germany
