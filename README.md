@@ -33,7 +33,7 @@ Conference | Dates | Proposals | Location
 [CSSConf Nordic](http://cssconf.no)* | Jun 1st | Unknown | Oslo, Norway
 [Web Rebels](https://www.webrebels.org)* | Jun 2nd - 3rd | N/A | Oslo, Norway
 [NodeConf Oslo](http://oslo.nodeconf.com)** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
-[JSCamp](http://www.jscamp.ro)** | Jun 7th | N/A | Bucharest, Romania
+[JSCamp](http://www.jscamp.ro)*** | Jun 7th | N/A | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com)* | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [Node.js Live London](http://live.nodejs.org/events/london.html) | TBA _(July)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | London, England
 [HOPE Conference](http://xi.hope.net)** | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York City, NY, USA
