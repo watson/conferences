@@ -44,6 +44,7 @@ Conference | Dates | Proposals | Location
 [HOPE Conference](http://xi.hope.net)** | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York City, NY, USA
 [NodeSummit](http://nodesummit.com/) | Jul 26nd - 28th | [Unknown](http://nodesummit.com/nodetalks/submission-form/) | San Fransico, SF, USA
 [npmCamp](http://npm.camp)** | Jul 30th | [Mar 1st](http://npm.camp/cfp.html) | Oakland, CA, USA
+[Node.js Live Boston](http://live.nodejs.org/events/boston.html) | TBA _(August)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Boston, MA, USA
 [DEF CON](http://www.defcon.org) | Aug 4th - 7th | [May 2nd](https://www.defcon.org/html/defcon-24/dc-24-cfp.html) | Las Vegas, NV, USA
 [Electromagnetic Field](https://www.emfcamp.org/)| Aug 5th - 7th | Unknown | Guildford, England
 [Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
