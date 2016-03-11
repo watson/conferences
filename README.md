@@ -53,6 +53,7 @@ Conference | Dates | Proposals | Location
 [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe)* | Sep 15th - 16th | [May 13th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Amsterdam, Netherlands
 [Parallel Polis Congress](http://www.hcpp.cz/) | Sep 30th - Oct 2nd | Unknown | Prague, Czechia
 JSConf Asia | TBA | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
+[Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)* | Nov 29th - 30th | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [CC Congress](http://events.ccc.de) | TBA | TBA | Hamburg, Germany
 
 
