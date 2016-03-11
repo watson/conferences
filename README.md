@@ -20,7 +20,7 @@ Conference | Dates | Proposals | Location
 [Node.js Live Bangalore](http://live.nodejs.org/events/bangalore.html) | Mar 19th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Bangalore, India
 [Easterhegg](https://eh16.easterhegg.eu/) | Mar 25th - 28th | N/A | Salzburg, Austria
 [Node.js Live Paris](http://live.nodejs.org/events/paris.html)** | Apr 14th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Paris, France
-[JSConf Uruguay](https://jsconf.uy) | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
+[JSConf Uruguay](https://jsconf.uy)** | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [SquatConf](http://squatconf.eu) | TBA _(Apr 30th)_ | N/A | Berlin, Germany
 [BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
