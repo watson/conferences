@@ -32,6 +32,7 @@ Conference | Dates | Proposals | Location
 [Node.js Live Beijing](http://live.nodejs.org/events/beijing.html) | May 21st - 22nd | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Beijing, China
 [AtTheFrontend](http://www.atthefrontend.dk)** | May 24th - 25th | [Mar 31st](http://www.atthefrontend.dk/call-for-papers/) | Copenhagen, Denmark
 [EmpireJS](http://2016.empirejs.org) | May 26th - 27th | [Feb 21st](https://speak.empirejs.org/) | New York City, NY, USA
+[Node.js Live Chicago](http://live.nodejs.org/events/chicago.html) | TBA _(June)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Chicago, IL, USA
 [ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
 [CSSConf Nordic](http://cssconf.no)* | Jun 1st | Unknown | Oslo, Norway
 [Web Rebels](https://www.webrebels.org)* | Jun 2nd - 3rd | N/A | Oslo, Norway
