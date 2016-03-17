@@ -26,6 +26,7 @@ Conference | Dates | Proposals | Location
 [BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
 [NodeConf Argentina](https://twitter.com/nodeconfar) | TBA _(spring)_ | TBA | Buenos Aires, Argentina
 [JSConf Brugge](https://jsconf.be)** | May 3rd | [Unknown](https://jsconf.be/nl/#callforpapers) | Brugge, Belgium
+[NodeConf London](http://london.nodeconf.com) | May 11th | [Unknown](http://london.nodeconf.com/call-for-speakers) | London, United Kingdom
 [JSConf Budapest](http://jsconfbp.com)** | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
 [Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
@@ -54,7 +55,6 @@ Conference | Dates | Proposals | Location
 [Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
 [JSConf Iceland](http://jsconf.is)** | Aug 25th - 26th | [Apr 30th](https://2016.jsconf.is/speakers) | Reykjavik, Iceland
 [BrazilJS](https://braziljs.org/conf?lang=en) | Aug 26th - 27th | Unknown | Porto Alegre, Brazil
-[NodeConf London](http://london.nodeconf.com) | TBA | TBA | London, United Kingdom
 [Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
 [Nordic.js](http://nordicjs.com)** | Sep 8th - 9th | [Apr 30th](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
 [BalCCon](https://balccon.org) | Sep 9th - 11th | Unknown | Novi Sad, Serbia
