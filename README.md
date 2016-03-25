@@ -23,8 +23,8 @@ Conference | Dates | Proposals | Location
 [JSConf Uruguay](https://jsconf.uy)** | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [SquatConf](http://squatconf.eu) | TBA _(Apr 30th)_ | N/A | Berlin, Germany
-[BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
 [NodeConf Argentina](https://twitter.com/nodeconfar) | TBA _(spring)_ | TBA | Buenos Aires, Argentina
+[BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
 [JSConf Brugge](https://jsconf.be)** | May 3rd | [Unknown](https://jsconf.be/nl/#callforpapers) | Brugge, Belgium
 [NodeConf London](http://london.nodeconf.com)** | May 11th | [Apr 1st](http://london.nodeconf.com/call-for-speakers) | London, United Kingdom
 [JSConf Budapest](http://jsconfbp.com)** | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
