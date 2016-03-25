@@ -65,7 +65,7 @@ JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/css
 [Node.js Live Seoul](http://live.nodejs.org/events/seoul.html) | TBA _(November)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Seoul, South Korea
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)* | Nov 29th - 30th | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
-[CC Congress](http://events.ccc.de) | TBA | TBA | Hamburg, Germany
+[CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
 
 
 ## 2015
