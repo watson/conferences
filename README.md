@@ -23,7 +23,6 @@ Conference | Dates | Proposals | Location
 [JSConf Uruguay](https://jsconf.uy)** | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [SquatConf](http://squatconf.eu) | Apr 29th - 30th | N/A | Berlin, Germany
-[NodeConf Argentina](https://twitter.com/nodeconfar) | TBA _(spring)_ | TBA | Buenos Aires, Argentina
 [BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
 [JSConf Brugge](https://jsconf.be)** | May 3rd | [Unknown](https://jsconf.be/nl/#callforpapers) | Brugge, Belgium
 [NodeConf London](http://london.nodeconf.com)*** | May 11th | [Apr 1st](http://london.nodeconf.com/call-for-speakers) | London, United Kingdom
@@ -65,6 +64,7 @@ Conference | Dates | Proposals | Location
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | TBA _(October)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
 JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Node.js Live Seoul](http://live.nodejs.org/events/seoul.html) | TBA _(November)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Seoul, South Korea
+[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | TBA | Buenos Aires, Argentina
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)* | Nov 29th - 30th | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf AU](http://jsconfau.com) | Dec 1st | Unknown | Melbourne, Australia
 [dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
