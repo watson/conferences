@@ -24,9 +24,9 @@ Conference | Dates | Proposals | Location
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [SquatConf](http://squatconf.eu) | Apr 29th - 30th | N/A | Berlin, Germany
 [BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
-[JSConf Brugge](https://jsconf.be)** | May 3rd | [Unknown](https://jsconf.be/nl/#callforpapers) | Brugge, Belgium
+[JSConf Brugge](https://jsconf.be)\*/** | May 3rd | [Unknown](https://jsconf.be/nl/#callforpapers) | Brugge, Belgium
 [NodeConf London](http://london.nodeconf.com)*** | May 11th | [Apr 1st](http://london.nodeconf.com/call-for-speakers) | London, United Kingdom
-[JSConf Budapest](http://jsconfbp.com)** | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
+[JSConf Budapest](http://jsconfbp.com)\*/** | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
 [Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
 [Node.js Live Beijing](http://live.nodejs.org/events/beijing.html) | May 21st - 22nd | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Beijing, China
@@ -37,7 +37,7 @@ Conference | Dates | Proposals | Location
 [Web Rebels](https://www.webrebels.org)* | Jun 2nd - 3rd | N/A | Oslo, Norway
 [ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
 [CampJS VII](http://vii.campjs.com) | Jun 3rd – 6th | Unknown | Sydney, NSW, Australia
-[NodeConf Oslo](http://oslo.nodeconf.com)** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
+[NodeConf Oslo](http://oslo.nodeconf.com)\*/** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
 [JSCamp](http://www.jscamp.ro)*** | Jun 7th | N/A | Bucharest, Romania
 [NodeConf Adventure](http://nodeconf.com)* | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [Dinosaur.js](http://dinosaurjs.org) | Jun 24th | [Mar 14th](http://speak.dinosaurjs.org/events/dinosaurjs-2016) | Denver, CO, USA
