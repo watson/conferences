@@ -30,7 +30,7 @@ Conference | Dates | Proposals | Location
 [Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
 [OSCON](http://conferences.oreilly.com/fluent/javascript-html-us) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
 [Node.js Live Beijing](http://live.nodejs.org/events/beijing.html) | May 21st - 22nd | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Beijing, China
-[AtTheFrontend](http://www.atthefrontend.dk)** | May 24th - 25th | [Mar 31st](http://www.atthefrontend.dk/call-for-papers/) | Copenhagen, Denmark
+[AtTheFrontend](http://www.atthefrontend.dk)*** | May 24th - 25th | [Mar 31st](http://www.atthefrontend.dk/call-for-papers/) | Copenhagen, Denmark
 [EmpireJS](http://2016.empirejs.org) | May 26th - 27th | [Feb 21st](https://speak.empirejs.org/) | New York City, NY, USA
 [Node.js Live Chicago](http://live.nodejs.org/events/chicago.html) | TBA _(June)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Chicago, IL, USA
 [CSSConf Nordic](http://cssconf.no)* | Jun 1st | Unknown | Oslo, Norway
