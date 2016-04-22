@@ -61,8 +61,8 @@ Conference | Dates | Proposals | Location
 [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe)* | Sep 15th - 16th | [May 13th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Amsterdam, Netherlands
 [Parallel Polis Congress](http://www.hcpp.cz/) | Sep 30th - Oct 2nd | Unknown | Prague, Czechia
 [CodeNeuro](http://codeneuro.org) | TBA | TBA | San Francisco, CA, USA
-[pixels.camp](http://pixels.camp/) | Oct 6th - 8th | [Jul 31st](https://github.com/PixelsCamp/talks_2016#readme) | Lisbon, Portugal
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | TBA _(October)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
+[pixels.camp](http://pixels.camp/) | Oct 6th - 8th | [Jul 31st](https://github.com/PixelsCamp/talks_2016#readme) | Lisbon, Portugal
 [NodejsConfIT](http://nodejsconf.it) | Oct 22nd | [May 15th](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy
 JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Node.js Live Seoul](http://live.nodejs.org/events/seoul.html) | TBA _(November)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Seoul, South Korea
