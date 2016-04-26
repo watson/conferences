@@ -43,7 +43,7 @@ Conference | Dates | Proposals | Location
 [Dinosaur.js](http://dinosaurjs.org) | Jun 24th | [Mar 14th](http://speak.dinosaurjs.org/events/dinosaurjs-2016) | Denver, CO, USA
 [Node.js Live London](http://live.nodejs.org/events/london.html) | TBA _(July)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | London, England
 [RuhrJS](http://ruhrjs.de) | Jul 2nd - 3rd | [May 31st](http://ruhrjs.de) | Bochum, Germany
-[NodeConf Brazil](http://brazil.nodeconf.com) | Jul 4th - 5th | Unknown | São Paulo, Brazil
+[NodeConf Brazil](http://brazil.nodeconf.com) | Jul 4th - 5th | [Unknown](https://docs.google.com/forms/d/1wcN4q2O4RE1qJD1SIP9ZnL-BN5sGaVsd4HYb2WBBl8I/viewform?c=0&w=1) | São Paulo, Brazil
 [FullStack](https://skillsmatter.com/conferences/7278-fullstack-2016-the-conference-on-javascript-node-and-internet-of-things) | Jul 13th - 15th | Mar 28th | London, United Kingdom
 [HOPE Conference](http://xi.hope.net)** | Jul 22nd - 24th | [Unknown](http://xi.hope.net/speakers/) | New York City, NY, USA
 [NodeSummit](http://nodesummit.com/) | Jul 26nd - 28th | [Unknown](http://nodesummit.com/nodetalks/submission-form/) | San Francisco, CA, USA
