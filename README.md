@@ -58,7 +58,7 @@ Conference | Dates | Proposals | Location
 [Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
 [Nordic.js](http://nordicjs.com)** | Sep 8th - 9th | [Apr 30th](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
 [BalCCon](https://balccon.org) | Sep 9th - 11th | Unknown | Novi Sad, Serbia
-[Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe)* | Sep 15th - 16th | [May 13th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Amsterdam, Netherlands
+[Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe)\*/** | Sep 15th - 16th | [May 13th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Amsterdam, Netherlands
 [Parallel Polis Congress](http://www.hcpp.cz/) | Sep 30th - Oct 2nd | Unknown | Prague, Czechia
 [CodeNeuro](http://codeneuro.org) | TBA | TBA | San Francisco, CA, USA
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | TBA _(October)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
@@ -68,7 +68,7 @@ Conference | Dates | Proposals | Location
 JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Node.js Live Seoul](http://live.nodejs.org/events/seoul.html) | TBA _(November)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Seoul, South Korea
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | TBA | Buenos Aires, Argentina
-[Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)* | Nov 29th - 30th | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
+[Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)\*/** | Nov 29th - 30th | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf AU](http://jsconfau.com) | Dec 1st | Unknown | Melbourne, Australia
 [dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
