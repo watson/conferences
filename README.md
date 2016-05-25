@@ -67,6 +67,7 @@ Conference | Dates | Proposals | Location
 [NodejsConfIT](http://nodejsconf.it) | Oct 22nd | [May 15th](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy
 JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Node.js Live Seoul](http://live.nodejs.org/events/seoul.html) | TBA _(November)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Seoul, South Korea
+[Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | TBA | Buenos Aires, Argentina
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)\*/** | Nov 29th - 30th | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf AU](http://jsconfau.com) | Dec 1st | Unknown | Melbourne, Australia
