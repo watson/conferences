@@ -63,7 +63,7 @@ Conference | Dates | Proposals | Location
 [CodeNeuro](http://codeneuro.org) | TBA | TBA | San Francisco, CA, USA
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | TBA _(October)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
 [pixels.camp](http://pixels.camp/) | Oct 6th - 8th | [Jul 31st](https://github.com/PixelsCamp/talks_2016#readme) | Lisbon, Portugal
-[NodeConf EU](http://nodeconfeu.com) | TBA (Oct) | Unknown | Kilkenny, Ireland
+[NodeConf EU](http://www.nodeconf.eu) | Oct 16th - 20th | Unknown | Kilkenny, Ireland
 [NodejsConfIT](http://nodejsconf.it) | Oct 22nd | [May 15th](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy
 JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Node.js Live Seoul](http://live.nodejs.org/events/seoul.html) | TBA _(November)_ | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Seoul, South Korea
