@@ -70,7 +70,7 @@ JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/css
 [Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | Jul 28th | Buenos Aires, Argentina
 [Nodevember](http://nodevember.org) | Nov 20th - 21st | [Aug 16th](https://www.papercall.io/nodevember) | Nashville, TN, USA
-[Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)\*/** | Nov 29th - 30th | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
+[Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)\*/** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf AU](http://jsconfau.com) | Dec 1st | Unknown | Melbourne, Australia
 [dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
