@@ -11,6 +11,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [NodeConf Budapest](http://budapest.nodeconf.com) | Jan 20th | [Oct 15th](http://budapest.nodeconf.com/call-for-speakers) | Budapest, Hungary
+[Forward JS](https://forwardjs.com) | Mar 1st | [Unknown](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
 
 ## 2016
 
