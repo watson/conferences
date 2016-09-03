@@ -69,11 +69,11 @@ Conference | Dates | Proposals | Location
 [CodeNeuro](http://codeneuro.org) | Oct 14th - 15th | TBA | San Francisco, CA, USA
 [NodeConf EU](http://www.nodeconf.eu)*** | Oct 16th - 20th | Unknown | Kilkenny, Ireland
 [NodejsConfIT](http://nodejsconf.it) | Oct 22nd | [May 15th](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy
-JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | Oct 26th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
 [Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | Jul 28th | Buenos Aires, Argentina
 [Nodevember](http://nodevember.org) | Nov 20th - 21st | [Aug 16th](https://www.papercall.io/nodevember) | Nashville, TN, USA
+[JSConf Asia](https://2016.jsconf.asia) | Nov 25th - 26th | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)\*/** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf AU](http://jsconfau.com) | Dec 1st | [Unknown](http://2016.jsconfau.com/cfp/) | Melbourne, Australia
 [dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
