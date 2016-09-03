@@ -80,7 +80,7 @@ JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/css
 [JSConf AU](http://jsconfau.com) | Dec 1st | Unknown | Melbourne, Australia
 [dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
 [HolyJS](http://holyjs.ru/en/) | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
-[CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
+[CC Congress](http://events.ccc.de) | Dec 27th - 30th | [Sep 30th](https://events.ccc.de/2016/09/01/call-for-participation-33rd-chaos-communication-congress-en/) | Hamburg, Germany
 
 ## 2015
 
