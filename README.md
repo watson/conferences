@@ -8,6 +8,8 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 
 ## 2017
 
+Conference | Dates | Proposals | Location
+-----------|-------|-----------|----------
 [NodeConf Budapest](http://budapest.nodeconf.com) | Jan 20th | [Oct 15th](http://budapest.nodeconf.com/call-for-speakers) | Budapest, Hungary
 
 ## 2016
