@@ -6,6 +6,10 @@ I've made this list to better keep track of the conferences I might attend. Pull
 
 I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferences) containing all the conferences from this list. If one is missing, please [open an issue](https://github.com/watson/hacker-conferences/issues/new).
 
+## 2017
+
+[NodeConf Budapest](http://budapest.nodeconf.com) | Jan 20th | [Oct 15th](http://budapest.nodeconf.com/call-for-speakers) | Budapest, Hungary
+
 ## 2016
 
 Conference | Dates | Proposals | Location
