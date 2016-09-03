@@ -58,7 +58,6 @@ Conference | Dates | Proposals | Location
 [CascadiaFest](http://2016.cascadiajs.com) | Aug 3rd - 5th | [Apr 11th](https://speak.cascadiafest.org/) | Semiahmoo, WA, USA
 [DEF CON](http://www.defcon.org) | Aug 4th - 7th | [May 2nd](https://www.defcon.org/html/defcon-24/dc-24-cfp.html) | Las Vegas, NV, USA
 [Electromagnetic Field](https://www.emfcamp.org/)| Aug 5th - 7th | Unknown | Guildford, England
-[Arctic JS Summer](http://arcticjs.club)*** | TBA | TBA | TBA
 [JSConf Iceland](http://jsconf.is)\*/** | Aug 25th - 26th | [Apr 30th](https://2016.jsconf.is/speakers) | Reykjavik, Iceland
 [BrazilJS](https://braziljs.org/conf?lang=en) | Aug 26th - 27th | Unknown | Porto Alegre, Brazil
 [Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
