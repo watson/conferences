@@ -73,8 +73,8 @@ JSConf Asia | TBA _(November)_ | [Unknown](https://jsconfasia.wufoo.eu/forms/css
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)\*/** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf AU](http://jsconfau.com) | Dec 1st | Unknown | Melbourne, Australia
 [dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
+[HolyJS](http://holyjs.ru/en/) | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | TBA | Hamburg, Germany
-
 
 ## 2015
 
