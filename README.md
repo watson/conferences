@@ -71,6 +71,7 @@ Conference | Dates | Proposals | Location
 [NodeConf EU](http://www.nodeconf.eu)*** | Oct 16th - 20th | Unknown | Kilkenny, Ireland
 [NodejsConfIT](http://nodejsconf.it) | Oct 22nd | [May 15th](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | Oct 26th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
+[EmpireNode](http://empirenode.org)** | Nov 7th | [Sep 9th](http://goo.gl/forms/3rbvdl75Ry6Mu6yk1) | New York City, NY, USA
 [Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | Jul 28th | Buenos Aires, Argentina
 [Nodevember](http://nodevember.org) | Nov 20th - 21st | [Aug 16th](https://www.papercall.io/nodevember) | Nashville, TN, USA
