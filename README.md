@@ -73,6 +73,7 @@ Conference | Dates | Proposals | Location
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | Oct 26th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
 [EmpireNode](http://empirenode.org)** | Nov 7th | [Sep 9th](http://goo.gl/forms/3rbvdl75Ry6Mu6yk1) | New York City, NY, USA
 [Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
+[NodeConf Barcelona](http://barcelona.nodeconf.com)** | Nov 18th | [Aug 31st](https://www.papercall.io/nodeconf-barcelona-2016) | Barcelona, Spain
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | Jul 28th | Buenos Aires, Argentina
 [Nodevember](http://nodevember.org) | Nov 20th - 21st | [Aug 16th](https://www.papercall.io/nodevember) | Nashville, TN, USA
 [JSConf Asia](https://2016.jsconf.asia) | Nov 25th - 26th | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
