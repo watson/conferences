@@ -21,7 +21,7 @@ Conference | Dates | Proposals | Location
 [HolyJS](http://holyjs.ru/en/)** | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
 [dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
 [JSConf AU](http://jsconfau.com) | Dec 1st | [Unknown](http://2016.jsconfau.com/cfp/) | Melbourne, Australia
-[Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)\*/** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
+[Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)*** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf Asia](https://2016.jsconf.asia) | Nov 25th - 26th | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Nodevember](http://nodevember.org) | Nov 20th - 21st | [Aug 16th](https://www.papercall.io/nodevember) | Nashville, TN, USA
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | Jul 28th | Buenos Aires, Argentina
