@@ -35,6 +35,7 @@ Conference | Dates | Proposals | Location
 [CodeNeuro](http://codeneuro.org) | Oct 14th - 15th | TBA | San Francisco, CA, USA
 [pixels.camp](http://pixels.camp/) | Oct 6th - 8th | [Jul 31st](https://github.com/PixelsCamp/talks_2016#readme) | Lisbon, Portugal
 [Parallel Polis Congress](http://www.hcpp.cz/) | Sep 30th - Oct 2nd | Unknown | Prague, Czechia
+[NodeBoat](http://nodebo.at)* | Sep 20th - 22nd | N/A | Copenhagen, Denmark
 [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe)*** | Sep 15th - 16th | [May 13th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Amsterdam, Netherlands
 [BalCCon](https://balccon.org) | Sep 9th - 11th | Unknown | Novi Sad, Serbia
 [Nordic.js](http://nordicjs.com)** | Sep 8th - 9th | [Apr 30th](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
