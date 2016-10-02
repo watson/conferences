@@ -26,7 +26,7 @@ Conference | Dates | Proposals | Location
 [Nodevember](http://nodevember.org) | Nov 20th - 21st | [Aug 16th](https://www.papercall.io/nodevember) | Nashville, TN, USA
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | Jul 28th | Buenos Aires, Argentina
 [NodeConf Barcelona](http://barcelona.nodeconf.com)*** | Nov 18th | [Aug 31st](https://www.papercall.io/nodeconf-barcelona-2016) | Barcelona, Spain
-[NodeFest](http://nodefest.jp/2016/)** | Nov 12th - 13th | [Sep 25th](https://docs.google.com/forms/d/e/1FAIpQLSfFVoJ-E5U7kjnpwZPmRedHl812lN61G6zrlSwcsb7hG75PGw/viewform) | Tokyo, Japan
+[NodeFest](http://nodefest.jp/2016/)*** | Nov 12th - 13th | [Sep 25th](https://docs.google.com/forms/d/e/1FAIpQLSfFVoJ-E5U7kjnpwZPmRedHl812lN61G6zrlSwcsb7hG75PGw/viewform) | Tokyo, Japan
 [Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
 [EmpireNode](http://empirenode.org)** | Nov 7th | [Sep 9th](http://goo.gl/forms/3rbvdl75Ry6Mu6yk1) | New York City, NY, USA
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | Oct 26th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
