@@ -19,7 +19,7 @@ Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | [Sep 30th](https://events.ccc.de/2016/09/01/call-for-participation-33rd-chaos-communication-congress-en/) | Hamburg, Germany
 [HolyJS](http://holyjs.ru/en/)** | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
-[dotJS](http://www.dotjs.io) | Dec 5th | N/A | Paris, France
+[dotJS](http://www.dotjs.io)* | Dec 5th | N/A | Paris, France
 [JSConf AU](http://jsconfau.com) | Dec 1st | [Unknown](http://2016.jsconfau.com/cfp/) | Melbourne, Australia
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)*** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf Asia](https://2016.jsconf.asia) | Nov 25th - 26th | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
