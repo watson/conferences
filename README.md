@@ -18,7 +18,7 @@ Conference | Dates | Proposals | Location
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
-[CC Congress](http://events.ccc.de) | Dec 27th - 30th | [Sep 30th](https://events.ccc.de/2016/09/01/call-for-participation-33rd-chaos-communication-congress-en/) | Hamburg, Germany
+[CC Congress](http://events.ccc.de)* | Dec 27th - 30th | [Sep 30th](https://events.ccc.de/2016/09/01/call-for-participation-33rd-chaos-communication-congress-en/) | Hamburg, Germany
 [HolyJS](http://holyjs.ru/en/)** | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
 [dotJS](http://www.dotjs.io)* | Dec 5th | N/A | Paris, France
 [JSConf AU](http://jsconfau.com) | Dec 1st | [Unknown](http://2016.jsconfau.com/cfp/) | Melbourne, Australia
