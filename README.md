@@ -12,6 +12,7 @@ Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [Forward JS](https://forwardjs.com) | Mar 1st | [Unknown](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
 [NodeConf Budapest](http://budapest.nodeconf.com)** | Jan 20th | [Oct 15th](http://budapest.nodeconf.com/call-for-speakers) | Budapest, Hungary
+[NodeConf Barcelona](http://barcelona.nodeconf.com) | TBA | TBA | Barcelona, Spain
 
 ## 2016
 
@@ -25,7 +26,6 @@ Conference | Dates | Proposals | Location
 [JSConf Asia](https://2016.jsconf.asia) | Nov 25th - 26th | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Nodevember](http://nodevember.org) | Nov 20th - 21st | [Aug 16th](https://www.papercall.io/nodevember) | Nashville, TN, USA
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | Jul 28th | Buenos Aires, Argentina
-[NodeConf Barcelona](http://barcelona.nodeconf.com)*** | Nov 18th | [Aug 31st](https://www.papercall.io/nodeconf-barcelona-2016) | Barcelona, Spain
 [NodeFest](http://nodefest.jp/2016/)*** | Nov 12th - 13th | [Sep 25th](https://docs.google.com/forms/d/e/1FAIpQLSfFVoJ-E5U7kjnpwZPmRedHl812lN61G6zrlSwcsb7hG75PGw/viewform) | Tokyo, Japan
 [Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
 [EmpireNode](http://empirenode.org)** | Nov 7th | [Sep 9th](http://goo.gl/forms/3rbvdl75Ry6Mu6yk1) | New York City, NY, USA
