@@ -30,7 +30,7 @@ Conference | Dates | Proposals | Location
 [Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
 [EmpireNode](http://empirenode.org)** | Nov 7th | [Sep 9th](http://goo.gl/forms/3rbvdl75Ry6Mu6yk1) | New York City, NY, USA
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | Oct 26th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
-[Node.js Conference Italy](http://nodejsconf.it)* | Oct 22nd | [May 15th](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy
+[Node.js Italian Conference](http://nodejsconf.it)*** | Oct 22nd | [May 15th](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy
 [NodeConf EU](http://www.nodeconf.eu)*** | Oct 16th - 20th | Unknown | Kilkenny, Ireland
 [CodeNeuro](http://codeneuro.org) | Oct 14th - 15th | TBA | San Francisco, CA, USA
 [pixels.camp](http://pixels.camp/) | Oct 6th - 8th | [Jul 31st](https://github.com/PixelsCamp/talks_2016#readme) | Lisbon, Portugal
