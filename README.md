@@ -10,6 +10,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
+[OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | TBA | [TBA](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
