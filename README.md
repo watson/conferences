@@ -10,7 +10,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
-[Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | Jan 12th | San Jose, CA, USA
+[Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [Forward JS](https://forwardjs.com) | Mar 1st | [Nov 15th](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
 [FOSDEM](https://fosdem.org/2017/) | Feb 4th - 5th | [Oct 31st / Nov 25th](https://fosdem.org/2017/news/2016-07-20-call-for-participation/) | Brussels, Belgium
