@@ -13,6 +13,7 @@ Conference | Dates | Proposals | Location
 [Forward JS](https://forwardjs.com) | Mar 1st | [Unknown](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
 [NodeConf Budapest](http://budapest.nodeconf.com)** | Jan 20th | [Oct 15th](http://budapest.nodeconf.com/call-for-speakers) | Budapest, Hungary
 [NodeConf Barcelona](http://barcelona.nodeconf.com) | TBA | TBA | Barcelona, Spain
+[JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
 
 ## 2016
 
