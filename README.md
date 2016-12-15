@@ -16,6 +16,7 @@ Conference | Dates | Proposals | Location
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
 [NodeConf Adventure](http://nodeconf.com) | TBA | N/A | Petaluma, CA, USA
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | TBA | [TBA](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
+[DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [Forward JS](https://forwardjs.com) | Mar 1st | [Nov 15th](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
@@ -74,6 +75,7 @@ Conference | Dates | Proposals | Location
 [EmpireJS](http://2016.empirejs.org) | May 26th - 27th | [Feb 21st](https://speak.empirejs.org/) | New York City, NY, USA
 [AtTheFrontend](http://www.atthefrontend.dk)*** | May 24th - 25th | [Mar 31st](http://www.atthefrontend.dk/call-for-papers/) | Copenhagen, Denmark
 [Node.js Live Beijing](http://live.nodejs.org/events/beijing.html) | May 21st | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Beijing, China
+[DEVit Web Conference](http://devitconf.org/) | May 20th | Unknown | Thessaloniki, Greece
 [OSCON](http://conferences.oreilly.com/oscon/) | May 18th - 19th | [Nov 24th](http://conferences.oreilly.com/oscon/open-source/public/cfp/423) | Austin, TX, USA
 [Space City JS](http://spacecity.codes) | May 14th | [Jan 15th](https://docs.google.com/forms/d/1tO4HFgISktCoV-CrKOLQ4QcXm_9uE0TiQXGy6LoTSZ4/viewform?c=0&w=1) | Houston, TX, USA
 [JSConf Budapest](http://jsconfbp.com)\*/** | May 12th - 13th | [Jan 10th](https://www.calltospeakers.com/cssconf-budapest/2016) | Budapest, Hungary
@@ -124,6 +126,7 @@ Conference | Dates | Proposals | Location
 [CampJS V](http://v.campjs.com) | May 22nd - 25th | Unknown | Melbourne, Australia
 [NodeConf Oslo ONE-SHOT](http://oslo.nodeconf.com) | May 23rd | Unknown | Oslo, Norway
 [Web Rebels](https://www.webrebels.org) | May 21st - 22nd | Unknown | Oslo, Norway
+[DEVit Web Conference](http://devitconf.org/) | May 15th | Unknown | Thessaloniki, Greece
 [Fluent](http://fluentconf.com/javascript-html-2015) | Apr 20th - 22nd | Unknown | San Francisco, CA, USA
 [NodeConf Christchurch ONE-SHOT](http://christchurch.nodeconf.com) | Mar 28th - 29th | Unknown | Christchurch, New Zealand
 [NodeSummit](http://nodesummit.com) | Feb 10th - 11th | Unknown | San Francisco, CA, USA
