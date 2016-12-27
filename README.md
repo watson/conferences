@@ -1,6 +1,6 @@
-# Hacker Conferences
+# Conferences
 
-This is a list of hacker worthy conferences mostly related (but not limited) to the Node community.
+This is a list of awesome conferences mostly related (but not limited) to the Node and JavaScript community.
 
 I've made this list to better keep track of the conferences I might attend. Pull requests are welcome.
 
