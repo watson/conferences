@@ -10,6 +10,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
+[Web Rebels](https://webrebels.org/) | June 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [Nordic.js](http://nordicjs.com) | Sep 7th - 8th | TBA | Stockholm, Sweden
 [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12th - 14th | TBA | London, United Kingdom
