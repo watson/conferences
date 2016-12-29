@@ -16,6 +16,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | TBA | [TBA](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
+[Web Rebels](https://www.webrebels.org) | Jun 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
 [DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
