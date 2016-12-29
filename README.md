@@ -11,7 +11,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
-[Nordic.js](http://nordicjs.com) | Sep 7th - 8th | TBA | Stockholm, Sweden
+[Nordic.js](http://nordicjs.com) | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
 [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12th - 14th | TBA | London, United Kingdom
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
