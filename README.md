@@ -20,6 +20,7 @@ Conference | Dates | Proposals | Location
 [Web Rebels](https://www.webrebels.org) | Jun 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
 [DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
 [Open Source Days](https://opensourcedays.org) | Mar 18th | [Unknown](https://opensourcedays.org/speakers) | Copenhagen, Denmark
+[Universal JS Day](http://2017.universaljsday.com/) | April 8, 2017 |[March 13, 2017](https://docs.google.com/forms/d/e/1FAIpQLSdhaLbbk4mN4k_Y4fR3DTbx0f-b9YKheWqnKy4RFe05ioeUlA/viewform)| Ferrara, Italy
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [Forward JS](https://forwardjs.com) | Mar 1st | [Nov 15th](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
