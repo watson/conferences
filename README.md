@@ -11,6 +11,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
+[CodeMotion Berlin](http://www.codemotionworld.com/) | Oct 12th-13th | [TBA](http://speaker.codemotionworld.com/c4p.php) | Berlin
 [Nordic.js](http://nordicjs.com) | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
 [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12th - 14th | TBA | London, United Kingdom
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
@@ -19,6 +20,7 @@ Conference | Dates | Proposals | Location
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | Jun 5th - 11th | [TBA](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
 [Web Rebels](https://www.webrebels.org) | Jun 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
 [DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
+[CodeMotion Amsterdam](http://www.codemotionworld.com/) | May 16th-17th | [TBA](http://speaker.codemotionworld.com/c4p.php) | Amsterdam
 [Open Source Days](https://opensourcedays.org) | Mar 18th | [Unknown](https://opensourcedays.org/speakers) | Copenhagen, Denmark
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
