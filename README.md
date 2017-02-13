@@ -21,7 +21,7 @@ Conference | Dates | Proposals | Location
 [DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
-[NodeConf Barcelona](http://barcelona.nodeconf.com) | Apr 7th | Unknown | Barcelona, Spain
+[NodeConf Barcelona](http://barcelona.nodeconf.com)*** | Apr 7th | Unknown | Barcelona, Spain
 [Open Source Days](https://opensourcedays.org) | Mar 17th - 18th | [Unknown](https://opensourcedays.org/speakers) | Copenhagen, Denmark
 [Forward JS](https://forwardjs.com) | Mar 1st | [Nov 15th](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
 [FOSDEM](https://fosdem.org/2017/) | Feb 4th - 5th | [Oct 31st / Nov 25th](https://fosdem.org/2017/news/2016-07-20-call-for-participation/) | Brussels, Belgium
