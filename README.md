@@ -10,26 +10,34 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
+[Arctic JS](http://arcticjs.club)* | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [CodeMotion Berlin](http://www.codemotionworld.com/) | Oct 12th-13th | [TBA](http://speaker.codemotionworld.com/c4p.php) | Berlin
+[NodeConf EU](http://www.nodeconf.eu) | Nov 5th - 8th | TBA | Kilkenny, Ireland
+[JSConf Columbia](http://jsconf.co) | Nov 3rd - 4th | TBA | Medellin, Columbia
 [Nordic.js](http://nordicjs.com) | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
+[DEF CON](http://www.defcon.org) | Jul 27th - 30st | [May 1st](https://www.defcon.org/html/defcon-25/dc-25-cfp.html) | Las Vegas, NV, USA
 [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12th - 14th | TBA | London, United Kingdom
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
 [DinosaurJS](https://dinosaurjs.org) | Jun 15th | [Mar 15th](http://speak.dinosaurjs.org/events/2017) | Denver, CO, USA
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | Jun 5th - 11th | [TBA](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
-[Web Rebels](https://www.webrebels.org) | Jun 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
+[HolyJS](https://holyjs-piter.ru/en/) | Jun 2nd - 3rd | [May 10th](https://holyjs-piter.ru/en/callforpapers/) | Saint Petersburg, Russia
+[Web Rebels](https://www.webrebels.org)*** | Jun 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
 [DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
 [CodeMotion Amsterdam](http://www.codemotionworld.com/) | May 16th-17th | [TBA](http://speaker.codemotionworld.com/c4p.php) | Amsterdam
 [Open Source Days](https://opensourcedays.org) | Mar 18th | [Unknown](https://opensourcedays.org/speakers) | Copenhagen, Denmark
+[jsDay](https://2017.jsday.it) | May 10th - 11th | Jan 31st | Verona, Italy
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
+[NodeConf Barcelona](http://barcelona.nodeconf.com)*** | Apr 7th | Unknown | Barcelona, Spain
+[JSUnconf](http://2017.jsunconf.eu) | Mar 25th – 26th | N/A | Hamburg, Germany
+[Open Source Days](https://opensourcedays.org) | Mar 17th - 18th | [Unknown](https://opensourcedays.org/speakers) | Copenhagen, Denmark
 [Forward JS](https://forwardjs.com) | Mar 1st | [Nov 15th](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
 [FOSDEM](https://fosdem.org/2017/) | Feb 4th - 5th | [Oct 31st / Nov 25th](https://fosdem.org/2017/news/2016-07-20-call-for-participation/) | Brussels, Belgium
 [Script'17](https://scriptconf.org) | Jan 27th | Unknown | Linz, Austria
 [BuzzJS](http://buzzjs.com) | Jan 27th | Unknown | New York City, NY, USA
 [NodeConf Budapest](http://budapest.nodeconf.com)*** | Jan 20th | [Oct 15th](http://budapest.nodeconf.com/call-for-speakers) | Budapest, Hungary
-[NodeConf Barcelona](http://barcelona.nodeconf.com) | TBA | TBA | Barcelona, Spain
 
 ## 2016
 
