@@ -11,7 +11,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [CC Congress](http://events.ccc.de) | TBA (Dec) | TBA | Hamburg, Germany
-[Arctic JS](http://arcticjs.club)* | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
+[ArcticJS](http://arcticjs.club)* | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [NodeConf EU](http://www.nodeconf.eu) | Nov 5th - 8th | TBA | Kilkenny, Ireland
 [JSConf Columbia](http://jsconf.co) | Nov 3rd - 4th | TBA | Medellin, Columbia
@@ -110,7 +110,7 @@ Conference | Dates | Proposals | Location
 [Forward Summit](http://forwardjs.com/summit) | Feb 10th | Unknown | San Francisco, CA, USA
 [JSConf Beirut](http://www.jsconfbeirut.com) | Feb 6th - 7th | Unknown | Beirut, Lebanon
 [FOSDEM](https://fosdem.org/2016/) | Jan 30th - 31st | Unknown | Brussels, Belgium
-[Arctic JS](http://arcticjs.club)*** | Jan 19th - 21nd | N/A | Longyearbyen, Svalbard
+[ArcticJS](http://arcticjs.club)*** | Jan 19th - 21nd | N/A | Longyearbyen, Svalbard
 
 ## 2015
 
