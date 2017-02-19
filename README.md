@@ -10,6 +10,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
+[CC Congress](http://events.ccc.de) | TBA (Dec) | TBA | Hamburg, Germany
 [Arctic JS](http://arcticjs.club)* | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [NodeConf EU](http://www.nodeconf.eu) | Nov 5th - 8th | TBA | Kilkenny, Ireland
