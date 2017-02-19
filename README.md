@@ -32,6 +32,7 @@ Node.js Interactive | Oct 4th - 7th | TBA | Vancouver, Canada
 [jsDay](https://2017.jsday.it) | May 10th - 11th | Jan 31st | Verona, Italy
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
+[Offline Camp](http://offlinefirst.org/camp/) | Apr 28th - May 1st | Unknown | Berlin, Germany
 [NodeConf Barcelona](http://barcelona.nodeconf.com)*** | Apr 7th | Unknown | Barcelona, Spain
 [JSUnconf](http://2017.jsunconf.eu) | Mar 25th – 26th | N/A | Hamburg, Germany
 [Open Source Days](https://opensourcedays.org) | Mar 17th - 18th | [Unknown](https://opensourcedays.org/speakers) | Copenhagen, Denmark
