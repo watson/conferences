@@ -15,6 +15,7 @@ Conference | Dates | Proposals | Location
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [NodeConf EU](http://www.nodeconf.eu) | Nov 5th - 8th | TBA | Kilkenny, Ireland
 [JSConf Columbia](http://jsconf.co) | Nov 3rd - 4th | TBA | Medellin, Columbia
+Node.js Interactive | Oct 4th - 7th | TBA | Vancouver, Canada
 [Nordic.js](http://nordicjs.com) | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
 [DEF CON](http://www.defcon.org) | Jul 27th - 30st | [May 1st](https://www.defcon.org/html/defcon-25/dc-25-cfp.html) | Las Vegas, NV, USA
 [NodeSummit](http://nodesummit.com/) | Jul 25nd - 27th | [Unknown](http://nodesummit.com/nodetalks/) | San Francisco, CA, USA
