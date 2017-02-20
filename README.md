@@ -23,6 +23,7 @@ Node.js Interactive | Oct 4th - 7th | TBA | Vancouver, Canada
 [NodeSummit](http://nodesummit.com/) | Jul 25nd - 27th | [Unknown](http://nodesummit.com/nodetalks/) | San Francisco, CA, USA
 [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12th - 14th | TBA | London, United Kingdom
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
+[VueConf](https://conf.vuejs.org/) | Jun 30th | [Unknown](https://conf.vuejs.org/#apply) | Wrocław, Poland
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
 [DinosaurJS](https://dinosaurjs.org) | Jun 15th | [Mar 15th](http://speak.dinosaurjs.org/events/2017) | Denver, CO, USA
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | Jun 5th - 11th | [TBA](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
