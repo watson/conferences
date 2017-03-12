@@ -15,15 +15,17 @@ Conference | Dates | Proposals | Location
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [NodeConf EU](http://www.nodeconf.eu) | Nov 5th - 8th | TBA | Kilkenny, Ireland
 [JSConf Columbia](http://jsconf.co) | Nov 3rd - 4th | TBA | Medellin, Columbia
-Node.js Interactive | Oct 4th - 7th | TBA | Vancouver, Canada
+[Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive) | Oct 4th - 7th | TBA | Vancouver, Canada
 [JSConf Budapest](http://jsconfbp.com) | Sep 14th - 15th | TBA | Budapest, Hungary
-[Nordic.js](http://nordicjs.com) | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
+[Nordic.js](http://nordicjs.com)** | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
+[Bornhack](https://bornhack.dk/bornhack-2017/) | Aug 22nd - 29th | TBA | Bornholm, Denmark
 [Midwest JS](http://www.midwestjs.com/) | Aug 16th - 18th | [Feb 24th](http://www.midwestjs.com/#/cfp) | Minneapolis, MN, USA
 [DEF CON](http://www.defcon.org) | Jul 27th - 30st | [May 1st](https://www.defcon.org/html/defcon-25/dc-25-cfp.html) | Las Vegas, NV, USA
 [NodeSummit](http://nodesummit.com/) | Jul 25nd - 27th | [Unknown](http://nodesummit.com/nodetalks/) | San Francisco, CA, USA
 [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12th - 14th | TBA | London, United Kingdom
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
-[VueConf](https://conf.vuejs.org/) | Jun 30th | [Unknown](https://conf.vuejs.org/#apply) | Wrocław, Poland
+[Camp++](https://camp.hsbp.org/2017/pp7e1/) | Jul 6th - 9th | [May 24th](https://camp.hsbp.org/2017/pp7e1/cfp.html) | Fort Monostor, Komárom, Hungary
+[VueConf](https://conf.vuejs.org/) | Jun 21st -23rd | [Unknown](https://conf.vuejs.org/#apply) | Wrocław, Poland
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
 [DinosaurJS](https://dinosaurjs.org) | Jun 15th | [Mar 15th](http://speak.dinosaurjs.org/events/2017) | Denver, CO, USA
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | Jun 5th - 11th | [TBA](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
