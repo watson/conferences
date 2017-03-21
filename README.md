@@ -1,8 +1,10 @@
 # Conferences
 
-This is a list of awesome conferences mostly related (but not limited) to the Node and JavaScript community.
+This is a curated list of awesome conferences mostly related (but not limited) to the Node and JavaScript community.
 
-I've made this list to better keep track of the conferences I might attend. Pull requests are welcome.
+I've made this list to better keep track of the conferences I might attend.
+
+Pull requests are welcome, but don't be supprised if I don't accept it. It's nothing personal, but I have to keep the list focused to only the conferences I'm actually interested in attending.
 
 I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferences) containing all the conferences from this list. If one is missing, please [open an issue](https://github.com/watson/hacker-conferences/issues/new).
 
