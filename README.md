@@ -17,7 +17,7 @@ Conference | Dates | Proposals | Location
 [CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Sep 1st](https://www.papercall.io/cubaconf2017) | Havana, Cuba
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [NodeConf EU](http://www.nodeconf.eu) | Nov 5th - 8th | TBA | Kilkenny, Ireland
-[JSConf Columbia](http://jsconf.co) | Nov 3rd - 4th | TBA | Medellin, Columbia
+[JSConf Columbia](http://jsconf.co) | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Columbia
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive) | Oct 4th - 7th | TBA | Vancouver, Canada
 [JSConf Budapest](http://jsconfbp.com) | Sep 14th - 15th | TBA | Budapest, Hungary
 [Nordic.js](http://nordicjs.com)** | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
