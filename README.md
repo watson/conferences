@@ -14,6 +14,7 @@ Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [CC Congress](http://events.ccc.de) | TBA (Dec) | TBA | Hamburg, Germany
 [ArcticJS](http://arcticjs.club)* | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
+[CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Sep 1st](https://www.papercall.io/cubaconf2017) | Havana, Cuba
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [NodeConf EU](http://www.nodeconf.eu) | Nov 5th - 8th | TBA | Kilkenny, Ireland
 [JSConf Columbia](http://jsconf.co) | Nov 3rd - 4th | TBA | Medellin, Columbia
