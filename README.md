@@ -38,6 +38,7 @@ Conference | Dates | Proposals | Location
 [jsDay](https://2017.jsday.it) | May 10th - 11th | Jan 31st | Verona, Italy
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
+[CSV Conf](https://csvconf.com/) | May 2nd - 3th | Unknown | Portland, Oregon
 [Offline Camp](http://offlinefirst.org/camp/) | Apr 28th - May 1st | Unknown | Berlin, Germany
 [NodeConf Barcelona](http://barcelona.nodeconf.com)*** | Apr 7th | Unknown | Barcelona, Spain
 [JSUnconf](http://2017.jsunconf.eu) | Mar 25th – 26th | N/A | Hamburg, Germany
