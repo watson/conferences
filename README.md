@@ -16,6 +16,7 @@ Conference | Dates | Proposals | Location
 [ArcticJS](http://arcticjs.club)* | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
 [CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Sep 1st](https://www.papercall.io/cubaconf2017) | Havana, Cuba
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
+[CodeMotion Berlin](http://www.codemotionworld.com/) | Oct 12th-13th | [TBA](http://speaker.codemotionworld.com/c4p.php) | Berlin
 [NodeConf EU](http://www.nodeconf.eu) | Nov 5th - 8th | TBA | Kilkenny, Ireland
 [JSConf Columbia](http://jsconf.co) | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Columbia
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive) | Oct 4th - 7th | TBA | Vancouver, Canada
@@ -35,6 +36,8 @@ Conference | Dates | Proposals | Location
 [HolyJS](https://holyjs-piter.ru/en/) | Jun 2nd - 3rd | [May 10th](https://holyjs-piter.ru/en/callforpapers/) | Saint Petersburg, Russia
 [Web Rebels](https://www.webrebels.org)*** | Jun 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
 [DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
+[CodeMotion Amsterdam](http://www.codemotionworld.com/) | May 16th-17th | [TBA](http://speaker.codemotionworld.com/c4p.php) | Amsterdam
+[Open Source Days](https://opensourcedays.org) | Mar 18th | [Unknown](https://opensourcedays.org/speakers) | Copenhagen, Denmark
 [jsDay](https://2017.jsday.it) | May 10th - 11th | Jan 31st | Verona, Italy
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
 [JSConf EU](http://2017.jsconf.eu) | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
