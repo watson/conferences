@@ -25,7 +25,7 @@ Conference | Dates | Proposals | Location
 [Bornhack](https://bornhack.dk/bornhack-2017/) | Aug 22nd - 29th | TBA | Bornholm, Denmark
 [Midwest JS](http://www.midwestjs.com/) | Aug 16th - 18th | [Feb 24th](http://www.midwestjs.com/#/cfp) | Minneapolis, MN, USA
 [DEF CON](http://www.defcon.org) | Jul 27th - 30st | [May 1st](https://www.defcon.org/html/defcon-25/dc-25-cfp.html) | Las Vegas, NV, USA
-[NodeSummit](http://nodesummit.com/) | Jul 25nd - 27th | [Unknown](http://nodesummit.com/nodetalks/) | San Francisco, CA, USA
+[NodeSummit](http://nodesummit.com/)** | Jul 25nd - 27th | [Unknown](http://nodesummit.com/nodetalks/) | San Francisco, CA, USA
 [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12th - 14th | TBA | London, United Kingdom
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
 [Camp++](https://camp.hsbp.org/2017/pp7e1/) | Jul 6th - 9th | [May 24th](https://camp.hsbp.org/2017/pp7e1/cfp.html) | Fort Monostor, Komárom, Hungary
