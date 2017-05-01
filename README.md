@@ -23,7 +23,7 @@ Conference | Dates | Proposals | Location
 [JSConf Budapest](http://jsconfbp.com)** | Sep 14th - 15th | [Apr 30th](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary
 [Nordic.js](http://nordicjs.com)** | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
 [Full Stack Fest](https://2017.fullstackfest.com) | Sep 4th - 8th | [May 15th](https://www.papercall.io/full-stack-fest-2017) | Barcelona, Spain
-[Bornhack](https://bornhack.dk/bornhack-2017/) | Aug 22nd - 29th | TBA | Bornholm, Denmark
+[Bornhack](https://bornhack.dk/bornhack-2017/) | Aug 22nd - 29th | [Unknown](https://bornhack.dk/bornhack-2017/program/call-for-speakers/) | Bornholm, Denmark
 [Midwest JS](http://www.midwestjs.com/) | Aug 16th - 18th | [Feb 24th](http://www.midwestjs.com/#/cfp) | Minneapolis, MN, USA
 [DEF CON](http://www.defcon.org) | Jul 27th - 30st | [May 1st](https://www.defcon.org/html/defcon-25/dc-25-cfp.html) | Las Vegas, NV, USA
 [NodeSummit](http://nodesummit.com/)** | Jul 25nd - 27th | [Unknown](http://nodesummit.com/nodetalks/) | San Francisco, CA, USA
