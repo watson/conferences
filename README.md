@@ -31,7 +31,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
 [Camp++](https://camp.hsbp.org/2017/pp7e1/) | Jul 6th - 9th | [May 24th](https://camp.hsbp.org/2017/pp7e1/cfp.html) | Fort Monostor, Komárom, Hungary
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
-[DinosaurJS](https://dinosaurjs.org) | Jun 15th | [Mar 15th](http://speak.dinosaurjs.org/events/2017) | Denver, CO, USA
+[DinosaurJS](https://dinosaurjs.org) | Jun 15th - 16th | [Mar 15th](http://speak.dinosaurjs.org/events/2017) | Denver, CO, USA
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | Jun 5th - 11th | [TBA](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
 [HolyJS](https://holyjs-piter.ru/en/) | Jun 2nd - 3rd | [May 10th](https://holyjs-piter.ru/en/callforpapers/) | Saint Petersburg, Russia
 [Web Rebels](https://www.webrebels.org)*** | Jun 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
