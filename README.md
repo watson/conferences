@@ -8,6 +8,13 @@ Pull requests are welcome, but don't be supprised if I don't accept it. It's not
 
 I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferences) containing all the conferences from this list. If one is missing, please [open an issue](https://github.com/watson/hacker-conferences/issues/new).
 
+## 2018
+
+Conference | Dates | Proposals | Location
+-----------|-------|-----------|----------
+[JSConf Iceland](http://jsconf.is) | Mar 1st - 2nd | TBA | Reykjavik, Iceland
+
+
 ## 2017
 
 Conference | Dates | Proposals | Location
@@ -45,7 +52,6 @@ Conference | Dates | Proposals | Location
 [NodeConf Barcelona](http://barcelona.nodeconf.com)*** | Apr 7th | Unknown | Barcelona, Spain
 [JSUnconf](http://2017.jsunconf.eu) | Mar 25th – 26th | N/A | Hamburg, Germany
 [Open Source Days](https://opensourcedays.org) | Mar 17th - 18th | [Unknown](https://opensourcedays.org/speakers) | Copenhagen, Denmark
-[JSConf Iceland](http://jsconf.is) | Mar 1st - 2nd | TBA | Reykjavik, Iceland
 [Forward JS](https://forwardjs.com) | Mar 1st | [Nov 15th](https://goo.gl/forms/jTbTtWxMvhQ6fYZ53) | San Francisco, CA, USA
 [FOSDEM](https://fosdem.org/2017/) | Feb 4th - 5th | [Oct 31st / Nov 25th](https://fosdem.org/2017/news/2016-07-20-call-for-participation/) | Brussels, Belgium
 [Script'17](https://scriptconf.org) | Jan 27th | Unknown | Linz, Austria
