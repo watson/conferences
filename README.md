@@ -168,6 +168,6 @@ Conference | Dates | Proposals | Location
 [NodeConf Christchurch ONE-SHOT](http://christchurch.nodeconf.com) | Mar 28th - 29th | Unknown | Christchurch, New Zealand
 [NodeSummit](http://nodesummit.com) | Feb 10th - 11th | Unknown | San Francisco, CA, USA
 
-- * I've submitted a talk proposal :)
+- `*` I've submitted a talk proposal :)
 - ** I'm attending :)
 - *** I'm speaking :)
