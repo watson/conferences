@@ -28,6 +28,7 @@ Conference | Dates | Proposals | Location
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [NodeConf EU](http://www.nodeconf.eu)** | Nov 5th - 8th | [Jun 30th](https://docs.google.com/forms/d/e/1FAIpQLScFuaUIzDXM9JcvafBuxkSHZty14gzlzSTlTKuuMnlFrmfAtw/viewform) | Kilkenny, Ireland
 [JSConf Columbia](http://jsconf.co)** | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Columbia
+[NodeConf Argentina](https://2017.nodeconf.com.ar) | Oct 26th - 28th | [Jul 15th](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 14th - 15th | Unknown | Bochum, Germany
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive) | Oct 4th - 7th | [Apr 10th](http://events.linuxfoundation.org/events/node-interactive/program/cfp-details) | Vancouver, Canada
 [DevFest Siberia](https://gdg-siberia.com) | Sep 23rd - 24th | [Jul 1st](https://docs.google.com/forms/d/e/1FAIpQLSdKW6Aj4H8duOhmr3NC6WHpCuTHySZPdXjc-whrGJ2DSFPJtQ/viewform) | Novosibirsk, Russia
