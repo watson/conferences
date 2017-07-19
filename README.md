@@ -30,6 +30,7 @@ Conference | Dates | Proposals | Location
 [JSConf Columbia](http://jsconf.co)** | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Columbia
 [NodeConf Argentina](https://2017.nodeconf.com.ar) | Oct 26th - 28th | [Jul 15th](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 14th - 15th | Unknown | Bochum, Germany
+[EmpireJS](http://2017.empirejs.org/) | Oct 12th - 13th | TBA | New York City, NY, USA
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive) | Oct 4th - 7th | [Apr 10th](http://events.linuxfoundation.org/events/node-interactive/program/cfp-details) | Vancouver, Canada
 [DevFest Siberia](https://gdg-siberia.com) | Sep 23rd - 24th | [Jul 1st](https://docs.google.com/forms/d/e/1FAIpQLSdKW6Aj4H8duOhmr3NC6WHpCuTHySZPdXjc-whrGJ2DSFPJtQ/viewform) | Novosibirsk, Russia
 [JSConf Budapest](http://jsconfbp.com)** | Sep 14th - 15th | [Apr 30th](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary
