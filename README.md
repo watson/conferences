@@ -20,26 +20,26 @@ Conference | Dates | Proposals | Location
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [CC Congress](http://events.ccc.de) | TBA (Dec) | TBA | Hamburg, Germany
-[ArcticJS](http://arcticjs.club)* | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
-[dotJS](http://www.dotjs.io)** | Dec 1st | [Unknown](https://www.dotconferences.com/blog/new-call-for-papers-for-all-our-conferences) | Paris, France
+[ArcticJS](http://arcticjs.club)** | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
+[dotJS](http://www.dotjs.io)* | Dec 1st | [Unknown](https://www.dotconferences.com/blog/new-call-for-papers-for-all-our-conferences) | Paris, France
 [NodeFest](http://nodefest.jp/2017/) | Nov 25th - 26th | [Unknown](https://docs.google.com/forms/d/e/1FAIpQLSf0TDlTdLWFE7yAnCyt3T_MCtJW-7u3T4XEpOVuZM61SnzG6w/viewform) | Tokyo, Japan
-[JS Kongress](https://js-kongress.de/)** | Nov 13th - 14th | [Jun 18th](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany
+[JS Kongress](https://js-kongress.de/)* | Nov 13th - 14th | [Jun 18th](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany
 [CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Sep 1st](https://www.papercall.io/cubaconf2017) | Havana, Cuba
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
-[NodeConf EU](http://www.nodeconf.eu)** | Nov 5th - 8th | [Jun 30th](https://docs.google.com/forms/d/e/1FAIpQLScFuaUIzDXM9JcvafBuxkSHZty14gzlzSTlTKuuMnlFrmfAtw/viewform) | Kilkenny, Ireland
-[JSConf Columbia](http://jsconf.co)** | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Columbia
+[NodeConf EU](http://www.nodeconf.eu)* | Nov 5th - 8th | [Jun 30th](https://docs.google.com/forms/d/e/1FAIpQLScFuaUIzDXM9JcvafBuxkSHZty14gzlzSTlTKuuMnlFrmfAtw/viewform) | Kilkenny, Ireland
+[JSConf Columbia](http://jsconf.co)* | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Columbia
 [NodeConf Argentina](https://2017.nodeconf.com.ar) | Oct 26th - 28th | [Jul 15th](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 14th - 15th | Unknown | Bochum, Germany
 [Empire Conf](http://2017.empirejs.org/) | Oct 12th - 13th | [Aug 24th](https://speak.empireconf.org/) | New York City, NY, USA
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive) | Oct 4th - 7th | [Apr 10th](http://events.linuxfoundation.org/events/node-interactive/program/cfp-details) | Vancouver, Canada
 [DevFest Siberia](https://gdg-siberia.com) | Sep 23rd - 24th | [Jul 1st](https://docs.google.com/forms/d/e/1FAIpQLSdKW6Aj4H8duOhmr3NC6WHpCuTHySZPdXjc-whrGJ2DSFPJtQ/viewform) | Novosibirsk, Russia
-[JSConf Budapest](http://jsconfbp.com)** | Sep 14th - 15th | [Apr 30th](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary
-[Nordic.js](http://nordicjs.com)** | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
+[JSConf Budapest](http://jsconfbp.com)* | Sep 14th - 15th | [Apr 30th](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary
+[Nordic.js](http://nordicjs.com)* | Sep 7th - 8th | [Unknown](http://cfp.nordicjs.com) | Stockholm, Sweden
 [Full Stack Fest](https://2017.fullstackfest.com) | Sep 4th - 8th | [May 15th](https://www.papercall.io/full-stack-fest-2017) | Barcelona, Spain
 [Bornhack](https://bornhack.dk/bornhack-2017/) | Aug 22nd - 29th | [Unknown](https://bornhack.dk/bornhack-2017/program/call-for-speakers/) | Bornholm, Denmark
 [Midwest JS](http://www.midwestjs.com/) | Aug 16th - 18th | [Feb 24th](http://www.midwestjs.com/#/cfp) | Minneapolis, MN, USA
 [DEF CON](http://www.defcon.org) | Jul 27th - 30st | [May 1st](https://www.defcon.org/html/defcon-25/dc-25-cfp.html) | Las Vegas, NV, USA
-[NodeSummit](http://nodesummit.com/)** | Jul 25nd - 27th | [Unknown](http://nodesummit.com/nodetalks/) | San Francisco, CA, USA
+[NodeSummit](http://nodesummit.com/)* | Jul 25nd - 27th | [Unknown](http://nodesummit.com/nodetalks/) | San Francisco, CA, USA
 [JSConf China](http://2017.jsconf.cn/en/) | Jul 15th - 16th | [May 20th](http://2017.jsconf.cn/en/call-for-speakers/) | Shanghai, China
 [FullStack](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12th - 14th | Unknown | London, United Kingdom
 [NodeConf Adventure](http://nodeconf.com) | Jul 6th - 9th | N/A | Petaluma, CA, USA
@@ -52,7 +52,7 @@ Conference | Dates | Proposals | Location
 [DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
 [jsDay](https://2017.jsday.it) | May 10th - 11th | Jan 31st | Verona, Italy
 [OSCON US](http://conferences.oreilly.com/oscon/oscon-tx) | May 8th - 18th | Oct 25th | Austin, TX, USA
-[JSConf EU](http://2017.jsconf.eu)* | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
+[JSConf EU](http://2017.jsconf.eu)** | May 6th – 7th | [Jan 1st](http://2017.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [CSV Conf](https://csvconf.com/) | May 2nd - 3th | Unknown | Portland, OR, USA
 [Offline Camp](http://offlinefirst.org/camp/) | Apr 28th - May 1st | Unknown | Berlin, Germany
 [NodeConf Barcelona](http://barcelona.nodeconf.com)*** | Apr 7th | Unknown | Barcelona, Spain
@@ -68,9 +68,9 @@ Conference | Dates | Proposals | Location
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
-[CC Congress](http://events.ccc.de)* | Dec 27th - 30th | [Sep 30th](https://events.ccc.de/2016/09/01/call-for-participation-33rd-chaos-communication-congress-en/) | Hamburg, Germany
+[CC Congress](http://events.ccc.de)** | Dec 27th - 30th | [Sep 30th](https://events.ccc.de/2016/09/01/call-for-participation-33rd-chaos-communication-congress-en/) | Hamburg, Germany
 [HolyJS](http://holyjs.ru/en/)*** | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
-[dotJS](http://www.dotjs.io)* | Dec 5th | N/A | Paris, France
+[dotJS](http://www.dotjs.io)** | Dec 5th | N/A | Paris, France
 [JSConf AU](http://jsconfau.com) | Dec 1st | [Unknown](http://2016.jsconfau.com/cfp/) | Melbourne, Australia
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)*** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf Asia](https://2016.jsconf.asia) | Nov 25th - 26th | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
@@ -78,17 +78,17 @@ Conference | Dates | Proposals | Location
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18th - 19th | Jul 28th | Buenos Aires, Argentina
 [NodeFest](http://nodefest.jp/2016/)*** | Nov 12th - 13th | [Sep 25th](https://docs.google.com/forms/d/e/1FAIpQLSfFVoJ-E5U7kjnpwZPmRedHl812lN61G6zrlSwcsb7hG75PGw/viewform) | Tokyo, Japan
 [Øredev](http://oredev.org) | Nov 7th - 11th | Unknown | Malmö, Sweden
-[EmpireNode](http://empirenode.org)** | Nov 7th | [Sep 9th](http://goo.gl/forms/3rbvdl75Ry6Mu6yk1) | New York City, NY, USA
+[EmpireNode](http://empirenode.org)* | Nov 7th | [Sep 9th](http://goo.gl/forms/3rbvdl75Ry6Mu6yk1) | New York City, NY, USA
 [Node.js Live Washington, D.C.](http://live.nodejs.org/events/washington.html) | Oct 26th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Washington, DC, USA
 [Node.js Italian Conference](http://nodejsconf.it)*** | Oct 22nd | [May 15th](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy
 [NodeConf EU](http://www.nodeconf.eu)*** | Oct 16th - 20th | Unknown | Kilkenny, Ireland
 [CodeNeuro](http://codeneuro.org) | Oct 14th - 15th | TBA | San Francisco, CA, USA
 [pixels.camp](http://pixels.camp/) | Oct 6th - 8th | [Jul 31st](https://github.com/PixelsCamp/talks_2016#readme) | Lisbon, Portugal
 [Parallel Polis Congress](http://www.hcpp.cz/) | Sep 30th - Oct 2nd | Unknown | Prague, Czechia
-[NodeBoat](http://nodebo.at)* | Sep 20th - 22nd | N/A | Copenhagen, Denmark
+[NodeBoat](http://nodebo.at)** | Sep 20th - 22nd | N/A | Copenhagen, Denmark
 [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe)*** | Sep 15th - 16th | [May 13th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Amsterdam, Netherlands
 [BalCCon](https://balccon.org) | Sep 9th - 11th | Unknown | Novi Sad, Serbia
-[Nordic.js](http://nordicjs.com)** | Sep 8th - 9th | [Apr 30th](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
+[Nordic.js](http://nordicjs.com)* | Sep 8th - 9th | [Apr 30th](https://nordicjs-cfp.confetti.events) | Stockholm, Sweden
 [Full Stack Fest](http://2016.fullstackfest.com) | Sep 5th - 9th | [Unknown](https://codegram.typeform.com/to/iwD8Yk) | Barcelona, Spain
 [BrazilJS](https://braziljs.org/conf?lang=en) | Aug 26th - 27th | Unknown | Porto Alegre, Brazil
 [JSConf Iceland](http://2016.jsconf.is)\*/** | Aug 25th - 26th | [Apr 30th](https://2016.jsconf.is/speakers) | Reykjavik, Iceland
@@ -96,21 +96,21 @@ Conference | Dates | Proposals | Location
 [DEF CON](http://www.defcon.org) | Aug 4th - 7th | [May 2nd](https://www.defcon.org/html/defcon-24/dc-24-cfp.html) | Las Vegas, NV, USA
 [CascadiaFest](http://2016.cascadiajs.com) | Aug 3rd - 5th | [Apr 11th](https://speak.cascadiafest.org/) | Semiahmoo, WA, USA
 [Node.js Live Boston](http://live.nodejs.org/events/boston.html) | Aug 24th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Boston, MA, USA
-[npmCamp](http://npm.camp)** | Jul 30th | [Mar 1st](http://npm.camp/cfp.html) | Oakland, CA, USA
-[NodeSummit](http://nodesummit.com/)** | Jul 26nd - 28th | [Unknown](http://nodesummit.com/nodetalks/submission-form/) | San Francisco, CA, USA
-[HOPE Conference](http://xi.hope.net)** | Jul 22nd - 24th | [May 20th](http://xi.hope.net/speakers/) | New York City, NY, USA
+[npmCamp](http://npm.camp)* | Jul 30th | [Mar 1st](http://npm.camp/cfp.html) | Oakland, CA, USA
+[NodeSummit](http://nodesummit.com/)* | Jul 26nd - 28th | [Unknown](http://nodesummit.com/nodetalks/submission-form/) | San Francisco, CA, USA
+[HOPE Conference](http://xi.hope.net)* | Jul 22nd - 24th | [May 20th](http://xi.hope.net/speakers/) | New York City, NY, USA
 [FullStack](https://skillsmatter.com/conferences/7278-fullstack-2016-the-conference-on-javascript-node-and-internet-of-things) | Jul 13th - 15th | Mar 28th | London, United Kingdom
 [NodeConf Brazil](http://brazil.nodeconf.com) | Jul 4th - 5th | [Unknown](https://docs.google.com/forms/d/1wcN4q2O4RE1qJD1SIP9ZnL-BN5sGaVsd4HYb2WBBl8I/viewform?c=0&w=1) | São Paulo, Brazil
 [RuhrJS](http://ruhrjs.de) | Jul 2nd - 3rd | [May 31st](http://ruhrjs.de) | Bochum, Germany
 [Node.js Live London](http://live.nodejs.org/events/london.html) | Jul 21st | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | London, England
 [Dinosaur.js](http://dinosaurjs.org) | Jun 24th | [Mar 14th](http://speak.dinosaurjs.org/events/dinosaurjs-2016) | Denver, CO, USA
-[NodeConf Adventure](http://nodeconf.com)* | Jun 9th - 12th | N/A | Petaluma, CA, USA
+[NodeConf Adventure](http://nodeconf.com)** | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [JSCamp](http://www.jscamp.ro)*** | Jun 7th | N/A | Bucharest, Romania
 [NodeConf Oslo](http://oslo.nodeconf.com)*** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
 [CampJS VII](http://vii.campjs.com) | Jun 3rd – 6th | Unknown | Sydney, NSW, Australia
 [ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
-[Web Rebels](https://www.webrebels.org)* | Jun 2nd - 3rd | N/A | Oslo, Norway
-[CSSConf Nordic](http://cssconf.no)* | Jun 1st | Unknown | Oslo, Norway
+[Web Rebels](https://www.webrebels.org)** | Jun 2nd - 3rd | N/A | Oslo, Norway
+[CSSConf Nordic](http://cssconf.no)** | Jun 1st | Unknown | Oslo, Norway
 [Node.js Live Chicago](http://live.nodejs.org/events/chicago.html) | Jun 22nd | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Chicago, IL, USA
 [EmpireJS](http://2016.empirejs.org) | May 26th - 27th | [Feb 21st](https://speak.empirejs.org/) | New York City, NY, USA
 [AtTheFrontend](http://www.atthefrontend.dk)*** | May 24th - 25th | [Mar 31st](http://www.atthefrontend.dk/call-for-papers/) | Copenhagen, Denmark
@@ -124,7 +124,7 @@ Conference | Dates | Proposals | Location
 [BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
 [SquatConf](http://squatconf.eu)\*/** | Apr 29th - 30th | [Unknown](https://git.cryto.net/Squatconf/Talks) | Berlin, Germany
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
-[JSConf Uruguay](https://jsconf.uy)** | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
+[JSConf Uruguay](https://jsconf.uy)* | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [Node.js Live Paris](http://live.nodejs.org/events/paris.html)*** | Apr 14th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Paris, France
 [Easterhegg](https://eh16.easterhegg.eu/) | Mar 25th - 28th | N/A | Salzburg, Austria
 [Node.js Live Bangalore](http://live.nodejs.org/events/bangalore.html) | Mar 19th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Bangalore, India
