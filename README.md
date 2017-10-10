@@ -13,7 +13,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [JSConf EU](https://jsconf.eu) | Jun 2nd - 3rd | TBA | Berlin, Germany
-[JSConf Iceland](http://jsconf.is) | Mar 1st - 2nd | TBA | Reykjavik, Iceland
+[JSConf Iceland](https://2018.jsconf.is/) | Mar 1st - 2nd | [Oct 31st](http://cfp.jsconf.is/events/jsconf-iceland-2018) | Reykjavik, Iceland
 [BrazilJS](https://braziljs.org/conf/) | Unknown | Unknown | Porto Alegre, Brazil
 
 
