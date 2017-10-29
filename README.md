@@ -12,11 +12,11 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
+[Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive) | Oct 11th - 13th | TBA | Vancouver, BC, Canada
 [Web Rebels](https://www.webrebels.org) | Jun 4th - 5th | TBA | Oslo, Norway
 [JSConf EU](https://jsconf.eu) | Jun 2nd - 3rd | TBA | Berlin, Germany
 [JSConf Iceland](https://2018.jsconf.is/) | Mar 1st - 2nd | [Oct 31st](http://cfp.jsconf.is/events/jsconf-iceland-2018) | Reykjavik, Iceland
 [BrazilJS](https://braziljs.org/conf/) | Unknown | Unknown | Porto Alegre, Brazil
-[Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive) | Oct 11th - 13th | TBA | Vancouver, BC
 
 ## 2017
 
