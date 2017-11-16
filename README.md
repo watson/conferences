@@ -23,7 +23,7 @@ NodeConf Chile | TBA | TBA | Santiago, Chile
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
-[CC Congress](http://events.ccc.de)** | Dec 27th - 30th | [Oct 15th](https://events.ccc.de/2017/09/19/34c3-call-for-participation-and-submission-guidelines/) | Hamburg, Germany
+[CC Congress](http://events.ccc.de)** | Dec 27th - 30th | [Oct 15th](https://events.ccc.de/2017/09/19/34c3-call-for-participation-and-submission-guidelines/) | Leipzig, Germany
 [ArcticJS](http://arcticjs.club)** | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
 [HolyJS](https://holyjs-moscow.ru/en/) | Dec 10th - 11th | [Sep 15th](https://holyjs-moscow.ru/en/callforpapers/) | Moscow, Russia
 [dotJS](http://www.dotjs.io)*** | Dec 1st | [Unknown](https://www.dotconferences.com/blog/new-call-for-papers-for-all-our-conferences) | Paris, France
