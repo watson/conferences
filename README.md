@@ -126,7 +126,7 @@ Conference | Dates | Proposals | Location
 [NodeConf London](http://london.nodeconf.com)*** | May 11th | [Apr 1st](http://london.nodeconf.com/call-for-speakers) | London, United Kingdom
 [JSConf Brugge](https://jsconf.be)\*/** | May 3rd | [Unknown](https://jsconf.be/nl/#callforpapers) | Brugge, Belgium
 [BattleMesh](http://battlemesh.org/BattleMeshV9) | May 1st - 7th | [Feb 14th](http://battlemesh.org/BattleMeshV9/CallForTalks) | Porto, Portugal
-[SquatConf](http://squatconf.eu)\*/** | Apr 29th - 30th | [Unknown](https://git.cryto.net/Squatconf/Talks) | Berlin, Germany
+[SquatConf](http://squatconf.eu)*** | Apr 29th - 30th | [Unknown](https://git.cryto.net/Squatconf/Talks) | Berlin, Germany
 [JSUnconf](http://2016.jsunconf.eu) | Apr 23rd – 24th | N/A | Hamburg, Germany
 [JSConf Uruguay](https://jsconf.uy)* | Apr 15th - 16th | [Dec 21st](https://jsconf.uy/talks) | Montevideo, Uruguay
 [Node.js Live Paris](http://live.nodejs.org/events/paris.html)*** | Apr 14th | [Unknown](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) | Paris, France
