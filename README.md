@@ -31,7 +31,7 @@ Conference | Dates | Proposals | Location
 [JS Kongress](https://js-kongress.de/)*** | Nov 13th - 14th | [Jun 18th](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany
 [CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Sep 1st](https://www.papercall.io/cubaconf2017) | Havana, Cuba
 [NodeConf EU](http://www.nodeconf.eu)*** | Nov 5th - 8th | [Jun 30th](https://docs.google.com/forms/d/e/1FAIpQLScFuaUIzDXM9JcvafBuxkSHZty14gzlzSTlTKuuMnlFrmfAtw/viewform) | Kilkenny, Ireland
-[JSConf Columbia](http://jsconf.co)*** | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Columbia
+[JSConf Colombia](http://jsconf.co)*** | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Columbia
 [NodeConf Argentina](https://2017.nodeconf.com.ar) | Oct 26th - 28th | [Jul 15th](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 14th - 15th | Unknown | Bochum, Germany
 [Empire Conf](http://2017.empirejs.org/)* | Oct 12th - 13th | [Aug 24th](https://speak.empireconf.org/) | New York City, NY, USA
