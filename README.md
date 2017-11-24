@@ -16,6 +16,7 @@ NodeConf Chile | TBA | TBA | Santiago, Chile
 [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive) | Oct 11th - 13th | TBA | Vancouver, BC, Canada
 [Web Rebels](https://www.webrebels.org) | Jun 4th - 5th | TBA | Oslo, Norway
 [JSConf EU](https://jsconf.eu) | Jun 2nd - 3rd | [Jan 1st](https://2018.jsconf.eu/call-for-speakers/) | Berlin, Germany
+[ScaleConf Colombia](http://scaleconfco.com/) | Apr 27th - 28th | [Jan 15th](http://scaleconfco.com/#cfp) | Medellin, Colombia
 [JSConf Iceland](https://2018.jsconf.is/) | Mar 1st - 2nd | [Oct 31st](http://cfp.jsconf.is/events/jsconf-iceland-2018) | Reykjavik, Iceland
 [BrazilJS](https://braziljs.org/conf/) | Unknown | Unknown | Porto Alegre, Brazil
 
