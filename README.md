@@ -14,7 +14,7 @@ Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 NodeConf Chile | TBA | TBA | Santiago, Chile
 [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive) | Oct 11th - 13th | TBA | Vancouver, BC, Canada
-[OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Jul 16th - 19th | [Jan 30th](hhttps://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) | Portland, OR, USA
+[OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Jul 16th - 19th | [Jan 30th](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) | Portland, OR, USA
 [Web Rebels](https://www.webrebels.org) | Jun 4th - 5th | TBA | Oslo, Norway
 [JSConf EU](https://jsconf.eu) | Jun 2nd - 3rd | [Jan 1st](https://2018.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [ScaleConf Colombia](http://scaleconfco.com/) | Apr 27th - 28th | [Jan 15th](http://scaleconfco.com/#cfp) | Medellin, Colombia
