@@ -13,7 +13,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 NodeConf Chile | TBA | TBA | Santiago, Chile
-[Node.js Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
+[JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unkown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 [OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Jul 16th - 19th | [Jan 30th](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) | Portland, OR, USA
 [Web Rebels](https://www.webrebels.org) | Jun 4th - 5th | TBA | Oslo, Norway
