@@ -30,6 +30,7 @@ Conference | Dates | Proposals | Location
 [ArcticJS](http://arcticjs.club)** | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
 [HolyJS](https://holyjs-moscow.ru/en/) | Dec 10th - 11th | [Sep 15th](https://holyjs-moscow.ru/en/callforpapers/) | Moscow, Russia
 [dotJS](http://www.dotjs.io)*** | Dec 1st | [Unknown](https://www.dotconferences.com/blog/new-call-for-papers-for-all-our-conferences) | Paris, France
+[Nodevember](https://nodevember.org) | Nov 27th - 28th | [Sep 1st](https://www.papercall.io/nodevember-2017-cfp) | Nashville, Tennessee, USA
 [NodeFest](http://nodefest.jp/2017/) | Nov 25th - 26th | [Unknown](https://docs.google.com/forms/d/e/1FAIpQLSf0TDlTdLWFE7yAnCyt3T_MCtJW-7u3T4XEpOVuZM61SnzG6w/viewform) | Tokyo, Japan
 [JS Kongress](https://js-kongress.de/)*** | Nov 13th - 14th | [Jun 18th](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany
 [CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Sep 1st](https://www.papercall.io/cubaconf2017) | Havana, Cuba
