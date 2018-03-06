@@ -14,8 +14,9 @@ Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 NodeConf Chile | TBA | TBA | Santiago, Chile
 [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
-[Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unkown](http://cfp.nordicjs.com/) | Stockholm, Sweden
+[Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 JSConf US | Aug 20th - 23rd | TBA | TBA
+[Node Summit](https://nodesummit.com) | Jul 23rd - 25th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA 
 [HOPE Conference](http://xii.hope.net) | Jul 20th - 22nd | [Unknown](https://xii.hope.net/speakers.html) | New York City, NY, USA
 [ScrotlandJS](http://scotlandjs.com/) | Jul 19th - 20th | [Mar 1st](http://scotlandjs.com/#cfp) | Edinburgh, Scotland
 [OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Jul 16th - 19th | [Jan 30th](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) | Portland, OR, USA
