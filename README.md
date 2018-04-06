@@ -15,6 +15,7 @@ Conference | Dates | Proposals | Location
 NodeConf Chile | TBA | TBA | Santiago, Chile
 [RuhrJS](https://ruhrjs.de/) | Oct 13th - 14th | [Apr 30th](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | Bochum, Germany
 [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
+[ServerSide.swift](http://serversideswift.info) | Sep 12th - 14th | [June 15th](https://goo.gl/forms/it7bQkx9N7JqeZQ02) | Berlin, Germany
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 JSConf US | Aug 20th - 23rd | TBA | TBA
 [Node Summit](https://nodesummit.com) | Jul 23rd - 25th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA 
