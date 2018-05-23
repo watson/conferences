@@ -19,7 +19,7 @@ NodeConf Chile | TBA | TBA | Santiago, Chile
 [JSConf US](https://2018.jsconf.us/) | Aug 20th - 23rd | [May 1st](https://2018.jsconf.us/call-for-speakers/) | Carlsbad, CA, USA
 [Node Summit](https://nodesummit.com) | Jul 23rd - 25th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA
 [HOPE Conference](http://xii.hope.net) | Jul 20th - 22nd | [Unknown](https://xii.hope.net/speakers.html) | New York City, NY, USA
-[ScrotlandJS](http://scotlandjs.com/) | Jul 19th - 20th | [Mar 1st](http://scotlandjs.com/#cfp) | Edinburgh, Scotland
+[ScotlandJS](http://scotlandjs.com/) | Jul 19th - 20th | [Mar 1st](http://scotlandjs.com/#cfp) | Edinburgh, Scotland
 [OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Jul 16th - 19th | [Jan 30th](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) | Portland, OR, USA
 [Web Rebels](https://www.webrebels.org) | Jun 4th - 5th | TBA | Oslo, Norway
 [JSConf EU](https://jsconf.eu) | Jun 2nd - 3rd | [Jan 1st](https://2018.jsconf.eu/call-for-speakers/) | Berlin, Germany
