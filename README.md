@@ -14,6 +14,8 @@ Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 NodeConf Chile | TBA | TBA | Santiago, Chile
 [RuhrJS](https://ruhrjs.de/) | Oct 13th - 14th | [Apr 30th](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | Bochum, Germany
+[We ❤️ Speed](https://www.welovespeed.com/en/) | Oct 9th | | Bordeaux, France
+[Paris Web](https://www.paris-web.fr/) | Oct 4th - 6th | [Mar 27th](https://www.paris-web.fr/actualites/2018/02/appel-a-sujets-pour-paris-web-2018.php#call-for-speakers) | Paris, France
 [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 [JSConf US](https://2018.jsconf.us/) | Aug 20th - 23rd | [May 1st](https://2018.jsconf.us/call-for-speakers/) | Carlsbad, CA, USA
