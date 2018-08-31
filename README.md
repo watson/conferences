@@ -36,6 +36,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Argentina](https://2018.nodeconf.com.ar) | Oct 18th - 20th | [Jun 24th](https://2018.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 13th - 14th | [Apr 30th](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | Bochum, Germany
 [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
+[Open Source Days](https://opensourcedays.org) | Oct 5th - 6th | [Unknown](https://opensourcedays.org/cfspeakers.html) | Copenhagen, Denmark
 [Empire Conf](http://2018.empirejs.org/) | Sep 20th - 21st | [Jun 18th](https://sessionize.com/empirejs-2018/) | New York City, NY, USA
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 [Full Stack Fest](https://2018.fullstackfest.com) | Sep 3rd - 7th | [May 14th](https://www.papercall.io/full-stack-fest-2018) | Barcelona, Spain
