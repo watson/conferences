@@ -29,8 +29,8 @@ Conference | Dates | Proposals | Location
 [NodeConf Argentina](https://2018.nodeconf.com.ar) | Oct 18th - 20th | [Jun 24th](https://2018.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 13th - 14th | [Apr 30th](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | Bochum, Germany
 [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
-[Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 [Empire Conf](http://2018.empirejs.org/) | Sep 20th - 21st | [Jun 18th](https://sessionize.com/empirejs-2018/) | New York City, NY, USA
+[Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 [JSConf US](https://2018.jsconf.us/) | Aug 20th - 23rd | [May 1st](https://2018.jsconf.us/call-for-speakers/) | Carlsbad, CA, USA
 [Node Summit](https://nodesummit.com) | Jul 23rd - 25th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA
 [HOPE Conference](http://xii.hope.net) | Jul 20th - 22nd | [Unknown](https://xii.hope.net/speakers.html) | New York City, NY, USA
