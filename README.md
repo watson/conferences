@@ -57,6 +57,7 @@ Conference | Dates | Proposals | Location
 [Forward JS: Ottawa](https://forwardjs.com/ottawa) | Apr 3rd - 6th | Unknown | Ottawa, ON, Canada
 [JSConf Iceland](https://2018.jsconf.is/) | Mar 1st - 2nd | [Oct 31st](http://cfp.jsconf.is/events/jsconf-iceland-2018) | Reykjavik, Iceland
 [Forward JS](https://forwardjs.com) | Feb 13th | Unknown | San Francisco, CA, USA
+[FOSDEM](https://fosdem.org/2018/) | Feb 3rd - 4th | Unknown | Brussels, Belgium
 [BrazilJS](https://braziljs.org/conf/) | Unknown | Unknown | Porto Alegre, Brazil
 
 ## 2017
