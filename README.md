@@ -33,6 +33,7 @@ Conference | Dates | Proposals | Location
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 [Full Stack Fest](https://2018.fullstackfest.com) | Sep 3rd - 7th | [May 14th](https://www.papercall.io/full-stack-fest-2018) | Barcelona, Spain
 [JSConf US](https://2018.jsconf.us/) | Aug 20th - 23rd | [May 1st](https://2018.jsconf.us/call-for-speakers/) | Carlsbad, CA, USA
+[Bornhack](https://bornhack.dk/bornhack-2018/) | Aug 16th - 23rd | [Unknown](https://bornhack.dk/bornhack-2018/program/call-for-participation/) | Bornholm, Denmark
 [Node Summit](https://nodesummit.com) | Jul 23rd - 25th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA
 [HOPE Conference](http://xii.hope.net) | Jul 20th - 22nd | [Unknown](https://xii.hope.net/speakers.html) | New York City, NY, USA
 [ScrotlandJS](http://scotlandjs.com/) | Jul 19th - 20th | [Mar 1st](http://scotlandjs.com/#cfp) | Edinburgh, Scotland
