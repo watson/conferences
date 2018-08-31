@@ -42,7 +42,7 @@ Conference | Dates | Proposals | Location
 [JSConf US](https://2018.jsconf.us/) | Aug 20th - 23rd | [May 1st](https://2018.jsconf.us/call-for-speakers/) | Carlsbad, CA, USA
 [Bornhack](https://bornhack.dk/bornhack-2018/)** | Aug 16th - 23rd | [Unknown](https://bornhack.dk/bornhack-2018/program/call-for-participation/) | Bornholm, Denmark
 [Midwest JS](http://www.midwestjs.com/) | Aug 8th - 10th | Unknown | Minneapolis, MN, USA
-[Node Summit](https://nodesummit.com) | Jul 23rd - 25th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA
+[Node Summit](https://nodesummit.com) | Jul 23rd - 27th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA
 [HOPE Conference](http://xii.hope.net) | Jul 20th - 22nd | [Unknown](https://xii.hope.net/speakers.html) | New York City, NY, USA
 [ScrotlandJS](http://scotlandjs.com/) | Jul 19th - 20th | [Mar 1st](http://scotlandjs.com/#cfp) | Edinburgh, Scotland
 [OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Jul 16th - 19th | [Jan 30th](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) | Portland, OR, USA
