@@ -32,6 +32,7 @@ Conference | Dates | Proposals | Location
 [DevFest Siberia](https://gdg-siberia.com) | Nov 23rd - 25th | [Jul 31st](https://cfp.exchange/cfp/details/devfest-siberia-2018) | Novosibirsk, Russia
 [NodeFest](http://nodefest.jp/2018/) | Nov 23th - 24th | [Sep 30th](https://docs.google.com/forms/d/1b3DFCCVIK1rinVMFO39q6hSUev1Q_27avmYRE2E4YG0/edit) | Tokyo, Japan
 [JSConf Colombia](http://jsconf.co) | Nov 16th - 17th | [Jul 31st](https://sessionize.com/jsconfco) | Medellin, Colombia
+[ColdFront](https://2018.coldfront.co/)*** | Nov 13th - 15th | Unknown | Copenhagen, Denmark
 [dotJS](http://www.dotjs.io) | Nov 9th | Unknown | Paris, France
 [NodeConf EU](http://www.nodeconf.eu) | Nov 4th - 7th | Unknown | Kilkenny, Ireland
 [NodeConf Argentina](https://2018.nodeconf.com.ar) | Oct 18th - 20th | [Jun 24th](https://2018.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
