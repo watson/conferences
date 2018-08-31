@@ -13,6 +13,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | Unknown | Leipzig, Germany
+[Nodevember](https://nodevember.org) | Nov 27th - 28th | Unknown | Nashville, Tennessee, USA
 [HolyJS](https://holyjs-moscow.ru/en/) | Nov 24th - 25th | [Sep 24th](https://holyjs-moscow.ru/en/callforpapers/) | Moscow, Russia
 [dotJS](http://www.dotjs.io) | Nov 9th | Unknown | Paris, France
 [RuhrJS](https://ruhrjs.de/) | Oct 13th - 14th | [Apr 30th](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | Bochum, Germany
