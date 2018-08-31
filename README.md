@@ -20,6 +20,7 @@ Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [DEF CON](http://www.defcon.org) | Aug 8th - 11th | Unknown | Las Vegas, NV, USA
 [JS Kongress](https://js-kongress.de/) | Mar 11th - 12th | Unknown | Munich, Germany
+[Forward JS](https://forwardjs.com) | Jan 23nd - 26th | [Sep 1st](https://docs.google.com/forms/d/e/1FAIpQLSfUt4BFDNh4xNniyhRHk-w5yf43QvTAg41wg0TNyPT7owkzJw/viewform) | San Francisco, CA, USA
 
 ## 2018
 
