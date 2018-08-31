@@ -31,6 +31,7 @@ Conference | Dates | Proposals | Location
 [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
 [Empire Conf](http://2018.empirejs.org/) | Sep 20th - 21st | [Jun 18th](https://sessionize.com/empirejs-2018/) | New York City, NY, USA
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
+[Full Stack Fest](https://2018.fullstackfest.com) | Sep 3rd - 7th | [May 14th](https://www.papercall.io/full-stack-fest-2018) | Barcelona, Spain
 [JSConf US](https://2018.jsconf.us/) | Aug 20th - 23rd | [May 1st](https://2018.jsconf.us/call-for-speakers/) | Carlsbad, CA, USA
 [Node Summit](https://nodesummit.com) | Jul 23rd - 25th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA
 [HOPE Conference](http://xii.hope.net) | Jul 20th - 22nd | [Unknown](https://xii.hope.net/speakers.html) | New York City, NY, USA
