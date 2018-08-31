@@ -42,6 +42,7 @@ Conference | Dates | Proposals | Location
 [Empire Conf](http://2018.empirejs.org/) | Sep 20th - 21st | [Jun 18th](https://sessionize.com/empirejs-2018/) | New York City, NY, USA
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
 [Full Stack Fest](https://2018.fullstackfest.com) | Sep 3rd - 7th | [May 14th](https://www.papercall.io/full-stack-fest-2018) | Barcelona, Spain
+[BrazilJS](https://braziljs.org/conf/) | Aug 24th - 25th | Unknown | Porto Alegre, Brazil
 [JSConf US](https://2018.jsconf.us/) | Aug 20th - 23rd | [May 1st](https://2018.jsconf.us/call-for-speakers/) | Carlsbad, CA, USA
 [Bornhack](https://bornhack.dk/bornhack-2018/)** | Aug 16th - 23rd | [Unknown](https://bornhack.dk/bornhack-2018/program/call-for-participation/) | Bornholm, Denmark
 [Midwest JS](http://www.midwestjs.com/) | Aug 8th - 10th | Unknown | Minneapolis, MN, USA
@@ -62,7 +63,6 @@ Conference | Dates | Proposals | Location
 [Forward JS](https://forwardjs.com) | Feb 13th | Unknown | San Francisco, CA, USA
 [FOSDEM](https://fosdem.org/2018/) | Feb 3rd - 4th | Unknown | Brussels, Belgium
 [Script'18](https://scriptconf.org) | Jan 19th | Unknown | Linz, Austria
-[BrazilJS](https://braziljs.org/conf/) | Unknown | Unknown | Porto Alegre, Brazil
 
 ## 2017
 
