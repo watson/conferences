@@ -23,6 +23,7 @@ Conference | Dates | Proposals | Location
 [HolyJS](https://holyjs-moscow.ru/en/) | Nov 24th - 25th | [Sep 24th](https://holyjs-moscow.ru/en/callforpapers/) | Moscow, Russia
 [NodeFest](http://nodefest.jp/2018/) | Nov 23th - 24th | [Sep 30th](https://docs.google.com/forms/d/1b3DFCCVIK1rinVMFO39q6hSUev1Q_27avmYRE2E4YG0/edit) | Tokyo, Japan
 [dotJS](http://www.dotjs.io) | Nov 9th | Unknown | Paris, France
+[NodeConf EU](http://www.nodeconf.eu) | Nov 4th - 7th | Unknown | Kilkenny, Ireland
 [RuhrJS](https://ruhrjs.de/) | Oct 13th - 14th | [Apr 30th](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | Bochum, Germany
 [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
