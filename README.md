@@ -8,6 +8,12 @@ Pull requests are welcome, but don't be supprised if I don't accept it. It's not
 
 I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferences) containing all the conferences from this list. If one is missing, please [open an issue](https://github.com/watson/hacker-conferences/issues/new).
 
+## 2019
+
+Conference | Dates | Proposals | Location
+-----------|-------|-----------|----------
+[JS Kongress](https://js-kongress.de/) | Mar 11th - 12th | Unknown | Munich, Germany
+
 ## 2018
 
 Conference | Dates | Proposals | Location
