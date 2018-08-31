@@ -25,6 +25,7 @@ Conference | Dates | Proposals | Location
 [JSConf Colombia](http://jsconf.co) | Nov 16th - 17th | [Jul 31st](https://sessionize.com/jsconfco) | Medellin, Colombia
 [dotJS](http://www.dotjs.io) | Nov 9th | Unknown | Paris, France
 [NodeConf EU](http://www.nodeconf.eu) | Nov 4th - 7th | Unknown | Kilkenny, Ireland
+[NodeConf Argentina](https://2018.nodeconf.com.ar) | Oct 18th - 20th | [Jun 24th](https://2018.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 13th - 14th | [Apr 30th](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | Bochum, Germany
 [JS Interactive](https://events.linuxfoundation.org/events/js-interactive-2018/) | Oct 10th - 12th | TBA | Vancouver, BC, Canada
 [Nordic.js](http://nordicjs.com) | Sep 6th - 7th | [Unknown](http://cfp.nordicjs.com/) | Stockholm, Sweden
