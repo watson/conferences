@@ -44,6 +44,7 @@ Conference | Dates | Proposals | Location
 [JSConf US](https://2018.jsconf.us/) | Aug 20th - 23rd | [May 1st](https://2018.jsconf.us/call-for-speakers/) | Carlsbad, CA, USA
 [Bornhack](https://bornhack.dk/bornhack-2018/)** | Aug 16th - 23rd | [Unknown](https://bornhack.dk/bornhack-2018/program/call-for-participation/) | Bornholm, Denmark
 [Midwest JS](http://www.midwestjs.com/) | Aug 8th - 10th | Unknown | Minneapolis, MN, USA
+[Decentralized Web Summit](https://www.decentralizedweb.net/) | Jul 31st - Aug 2nd | Unknown | San Francisco, CA, USA
 [Node Summit](https://nodesummit.com) | Jul 23rd - 27th | [March 15th](http://www.nodesummit.com/nodetalks/proposal-form/) | San Francisco, CA, USA
 [HOPE Conference](http://xii.hope.net) | Jul 20th - 22nd | [Unknown](https://xii.hope.net/speakers.html) | New York City, NY, USA
 [NodeConf Adventure](http://nodeconf.com) | Jul 20th - 22nd | N/A | Petaluma, CA, USA
