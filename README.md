@@ -12,6 +12,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/hacker-conferen
 
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
+[CC Congress](https://events.ccc.de) | Dec 27th - 30th | Unknown | Unknown, Germany
 [DEF CON](https://www.defcon.org) | Jul 30th - Aug 2nd | Unknown | Las Vegas, NV, USA
 
 ## 2019
