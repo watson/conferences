@@ -58,7 +58,7 @@ Conference | Dates | Proposals | Location
 [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things) | Jul 11th - 13th | Unknown | London, United Kingdom
 [BuzzJS](http://buzzjs.com) | Jun 15th - 14th | Unknown | New York City, NY, USA
 [Web Rebels](https://www.webrebels.org) | Jun 4th - 5th | TBA | Oslo, Norway
-[JSConf EU](https://jsconf.eu) | Jun 2nd - 3rd | [Jan 1st](https://2018.jsconf.eu/call-for-speakers/) | Berlin, Germany
+[JSConf EU](https://2018.jsconf.eu/) | Jun 2nd - 3rd | [Jan 1st](https://2018.jsconf.eu/call-for-speakers/) | Berlin, Germany
 [ScaleConf Colombia](http://scaleconfco.com/) | Apr 27th - 28th | [Jan 15th](http://scaleconfco.com/#cfp) | Medellin, Colombia
 [JSUnconf](http://2018.jsunconf.eu) | Apr 21st – 22nd | N/A | Hamburg, Germany
 [Forward JS: Ottawa](https://forwardjs.com/ottawa) | Apr 3rd - 6th | Unknown | Ottawa, ON, Canada
@@ -73,11 +73,11 @@ Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [CC Congress](http://events.ccc.de)** | Dec 27th - 30th | [Oct 15th](https://events.ccc.de/2017/09/19/34c3-call-for-participation-and-submission-guidelines/) | Leipzig, Germany
 [ArcticJS](http://arcticjs.club)** | Dec 16th - 17th | TBA | Longyearbyen, Svalbard
-[HolyJS](https://holyjs-moscow.ru/en/) | Dec 10th - 11th | [Sep 15th](https://holyjs-moscow.ru/en/callforpapers/) | Moscow, Russia
+[HolyJS](http://2017.holyjs-moscow.ru/en/) | Dec 10th - 11th | [Sep 15th](https://holyjs-moscow.ru/en/callforpapers/) | Moscow, Russia
 [dotJS](http://www.dotjs.io)*** | Dec 1st | [Unknown](https://www.dotconferences.com/blog/new-call-for-papers-for-all-our-conferences) | Paris, France
 [Nodevember](https://nodevember.org) | Nov 27th - 28th | [Sep 1st](https://www.papercall.io/nodevember-2017-cfp) | Nashville, Tennessee, USA
 [NodeFest](http://nodefest.jp/2017/) | Nov 25th - 26th | [Unknown](https://docs.google.com/forms/d/e/1FAIpQLSf0TDlTdLWFE7yAnCyt3T_MCtJW-7u3T4XEpOVuZM61SnzG6w/viewform) | Tokyo, Japan
-[JS Kongress](https://js-kongress.de/)*** | Nov 13th - 14th | [Jun 18th](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany
+[JS Kongress](https://2017.js-kongress.de/)*** | Nov 13th - 14th | [Jun 18th](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany
 [CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Sep 1st](https://www.papercall.io/cubaconf2017) | Havana, Cuba
 [NodeConf EU](http://www.nodeconf.eu)*** | Nov 5th - 8th | [Jun 30th](https://docs.google.com/forms/d/e/1FAIpQLScFuaUIzDXM9JcvafBuxkSHZty14gzlzSTlTKuuMnlFrmfAtw/viewform) | Kilkenny, Ireland
 [JSConf Colombia](http://jsconf.co)*** | Nov 3rd - 4th | [Jun 16th](http://cfp.jsconf.co/) | Medellin, Colombia
@@ -100,7 +100,7 @@ Conference | Dates | Proposals | Location
 [Fluent](http://conferences.oreilly.com/fluent/fl-ca) | Jun 20th - 22nd | [Jan 12th](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA
 [DinosaurJS](https://dinosaurjs.org) | Jun 15th - 16th | [Mar 15th](http://speak.dinosaurjs.org/events/2017) | Denver, CO, USA
 [BattleMesh](http://battlemesh.org/BattleMeshV10) | Jun 5th - 11th | [Unknown](http://battlemesh.org/BattleMeshV10/CallForTalks) | Vienna, Austria
-[HolyJS](https://holyjs-piter.ru/en/) | Jun 2nd - 3rd | [May 10th](https://holyjs-piter.ru/en/callforpapers/) | Saint Petersburg, Russia
+[HolyJS](http://2017.holyjs-piter.ru/en/) | Jun 2nd - 3rd | [May 10th](https://holyjs-piter.ru/en/callforpapers/) | Saint Petersburg, Russia
 [Web Rebels](https://www.webrebels.org)*** | Jun 1st - 2nd | [Jan 30th](https://www.papercall.io/webreb2017) | Oslo, Norway
 [DEVit Web Conference](http://devitconf.org/) | May 20th - 21st | [Feb 5th](https://goo.gl/forms/GssucZClBUGvnXr62) | Thessaloniki, Greece
 [jsDay](https://2017.jsday.it) | May 10th - 11th | Jan 31st | Verona, Italy
@@ -122,7 +122,7 @@ Conference | Dates | Proposals | Location
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [CC Congress](http://events.ccc.de)** | Dec 27th - 30th | [Sep 30th](https://events.ccc.de/2016/09/01/call-for-participation-33rd-chaos-communication-congress-en/) | Hamburg, Germany
-[HolyJS](http://holyjs.ru/en/)*** | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
+[HolyJS](http://2016.holyjs-moscow.ru/en/)*** | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
 [dotJS](http://www.dotjs.io)** | Dec 5th | N/A | Paris, France
 [JSConf AU](http://jsconfau.com) | Dec 1st | [Unknown](http://2016.jsconfau.com/cfp/) | Melbourne, Australia
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)*** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
