@@ -28,6 +28,7 @@ CC Camp | Aug | Unknown | Mildenberg, Germany
 [JS Kongress](https://js-kongress.de/) | Mar 11th - 12th | Unknown | Munich, Germany
 [FOSDEM](https://fosdem.org/2019/) | Feb 2nd - 3rd | Unknown | Brussels, Belgium
 [Forward JS](https://forwardjs.com) | Jan 23nd - 26th | [Sep 1st](https://docs.google.com/forms/d/e/1FAIpQLSfUt4BFDNh4xNniyhRHk-w5yf43QvTAg41wg0TNyPT7owkzJw/viewform) | San Francisco, CA, USA
+JSConf Asia | Unknown | [Unknown](https://contribute.jsconf.asia/) | Singapore
 
 ## 2018
 
