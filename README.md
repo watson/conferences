@@ -22,7 +22,7 @@ CC Camp | Aug | Unknown | Mildenberg, Germany
 [DEF CON](http://www.defcon.org) | Aug 8th - 11th | Unknown | Las Vegas, NV, USA
 [Bornhack](https://bornhack.dk/bornhack-2019/) | Aug 8th - 15th | [Unknown](https://bornhack.dk/bornhack-2019/program/call-for-participation/) | Bornholm, Denmark
 [JSConf EU](https://2019.jsconf.eu) | Jun 1st - 2nd | Unknown | Berlin, Germany
-[ScaleConf Colombia](http://scaleconfco.com/) | May 17th - 18th | Unknown | Medellin, Colombia
+[ScaleConf Colombia](https://scaleconfco.com/) | May 17th - 18th | Unknown | Medellin, Colombia
 [JS Kongress](https://js-kongress.de/) | Mar 11th - 12th | Unknown | Munich, Germany
 [Forward JS](https://forwardjs.com) | Jan 23nd - 26th | [Sep 1st](https://docs.google.com/forms/d/e/1FAIpQLSfUt4BFDNh4xNniyhRHk-w5yf43QvTAg41wg0TNyPT7owkzJw/viewform) | San Francisco, CA, USA
 
@@ -60,7 +60,7 @@ Conference | Dates | Proposals | Location
 [BuzzJS](http://buzzjs.com) | Jun 15th - 14th | Unknown | New York City, NY, USA
 [Web Rebels](https://www.webrebels.org) | Jun 4th - 5th | TBA | Oslo, Norway
 [JSConf EU](https://2018.jsconf.eu/) | Jun 2nd - 3rd | [Jan 1st](https://2018.jsconf.eu/call-for-speakers/) | Berlin, Germany
-[ScaleConf Colombia](http://scaleconfco.com/) | Apr 27th - 28th | [Jan 15th](http://scaleconfco.com/#cfp) | Medellin, Colombia
+[ScaleConf Colombia](https://2018.scaleconfco.com/) | Apr 27th - 28th | [Jan 15th](https://scaleconfco.com/#cfp) | Medellin, Colombia
 [JSUnconf](http://2018.jsunconf.eu) | Apr 21st – 22nd | N/A | Hamburg, Germany
 [Forward JS: Ottawa](https://forwardjs.com/ottawa) | Apr 3rd - 6th | Unknown | Ottawa, ON, Canada
 [JSConf Iceland](https://2018.jsconf.is/) | Mar 1st - 2nd | [Oct 31st](http://cfp.jsconf.is/events/jsconf-iceland-2018) | Reykjavik, Iceland
