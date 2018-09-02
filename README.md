@@ -21,6 +21,7 @@ Conference | Dates | Proposals | Location
 CC Camp | Aug | Unknown | Mildenberg, Germany
 [DEF CON](http://www.defcon.org) | Aug 8th - 11th | Unknown | Las Vegas, NV, USA
 [Bornhack](https://bornhack.dk/bornhack-2019/) | Aug 8th - 15th | [Unknown](https://bornhack.dk/bornhack-2019/program/call-for-participation/) | Bornholm, Denmark
+[JSConf EU](https://2019.jsconf.eu) | Jun 1st - 2nd | Unknown | Berlin, Germany
 [JS Kongress](https://js-kongress.de/) | Mar 11th - 12th | Unknown | Munich, Germany
 [Forward JS](https://forwardjs.com) | Jan 23nd - 26th | [Sep 1st](https://docs.google.com/forms/d/e/1FAIpQLSfUt4BFDNh4xNniyhRHk-w5yf43QvTAg41wg0TNyPT7owkzJw/viewform) | San Francisco, CA, USA
 
