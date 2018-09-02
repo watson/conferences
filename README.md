@@ -31,7 +31,7 @@ Conference | Dates | Proposals | Location | Twitter
 [JSConf Hawaiʻi](https://www.jsconfhi.com/)* | Feb 7th - 8th | [Unknown](https://www.jsconfhi.com/call-for-speakers/) | Honolulu, HI, USA | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/JSConfHi)
 [FOSDEM](https://fosdem.org/2019/) | Feb 2nd - 3rd | Unknown | Brussels, Belgium | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/fosdem)
 [Forward JS](https://forwardjs.com) | Jan 23nd - 26th | [Sep 1st](https://docs.google.com/forms/d/e/1FAIpQLSfUt4BFDNh4xNniyhRHk-w5yf43QvTAg41wg0TNyPT7owkzJw/viewform) | San Francisco, CA, USA | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/forwardJS)
-JSConf Asia | Unknown | [Unknown](https://contribute.jsconf.asia/) | Singapore | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/jsconfasia)
+JSConf Asia* | Unknown | [Unknown](https://contribute.jsconf.asia/) | Singapore | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/jsconfasia)
 
 ## 2018
 
