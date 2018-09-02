@@ -75,7 +75,7 @@ Conference | Dates | Proposals | Location | Twitter
 [ScaleConf Colombia](https://2018.scaleconfco.com/) | Apr 27th - 28th | [Jan 15th](https://scaleconfco.com/#cfp) | Medellin, Colombia | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/scaleconfco)
 [JSUnconf](https://2018.jsunconf.eu) | Apr 21st – 22nd | N/A | Hamburg, Germany | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/jsunconf)
 [Forward JS: Ottawa](https://forwardjs.com/ottawa) | Apr 3rd - 6th | Unknown | Ottawa, ON, Canada | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/forwardJS)
-[JSConf AU](https://2018.jsconfau.com/) | Mar 21st - 22nd | Unknown | Melbourne, Australia | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/JSConfAU)
+[JSConf AU](https://2018.jsconfau.com/) | Mar 21st - 22nd | Unknown | Melbourne, VIC, Australia | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/JSConfAU)
 [JSConf Iceland](https://2018.jsconf.is/) | Mar 1st - 2nd | [Oct 31st](https://cfp.jsconf.is/events/jsconf-iceland-2018) | Reykjavik, Iceland | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/jsconfis)
 [Forward JS](https://forwardjs.com) | Feb 13th | Unknown | San Francisco, CA, USA | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/forwardJS)
 [FOSDEM](https://fosdem.org/2018/) | Feb 3rd - 4th | Unknown | Brussels, Belgium | [![image-2018-09-02](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/fosdem)
@@ -139,7 +139,7 @@ Conference | Dates | Proposals | Location
 [CC Congress](https://events.ccc.de)** | Dec 27th - 30th | [Sep 30th](https://events.ccc.de/2016/09/01/call-for-participation-33rd-chaos-communication-congress-en/) | Hamburg, Germany
 [HolyJS](http://2016.holyjs-moscow.ru/en/)*** | Dec 11th | [Unknown](http://holyjs.ru/en/callforpapers.html) | Moscow, Russia
 [dotJS](http://www.dotjs.io)** | Dec 5th | N/A | Paris, France
-[JSConf AU](http://jsconfau.com) | Dec 1st | [Unknown](http://2016.jsconfau.com/cfp/) | Melbourne, Australia
+[JSConf AU](http://jsconfau.com) | Dec 1st | [Unknown](http://2016.jsconfau.com/cfp/) | Melbourne, VIC, Australia
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive)*** | Nov 29th - 2nd | [Jul 15th](https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU) | Austin, TX, USA
 [JSConf Asia](https://2016.jsconf.asia) | Nov 25th - 26th | [Unknown](https://jsconfasia.wufoo.eu/forms/cssconf-and-jsconfasia/) | Singapore
 [Nodevember](http://nodevember.org) | Nov 20th - 21st | [Aug 16th](https://www.papercall.io/nodevember) | Nashville, TN, USA
@@ -231,7 +231,7 @@ Conference | Dates | Proposals | Location
 [CascadiaFest](http://2015.cascadiajs.com) | Jul 8th - 10th | Unknown | Blaine, WA, USA
 [mloc.js](http://mloc-js.com/2015/) | Jun 18th - 19th | Unknown | Budapest, Hungary
 [NodeConf Adventure](http://nodeconf.com)** | Jun 11th - 14th | N/A | Petaluma, CA, USA
-[CampJS](http://v.campjs.com) | May 22nd - 25th | Unknown | Melbourne, Australia
+[CampJS](http://v.campjs.com) | May 22nd - 25th | Unknown | Melbourne, VIC, Australia
 [NodeConf Oslo ONE-SHOT](http://oslo.nodeconf.com) | May 23rd | Unknown | Oslo, Norway
 [Web Rebels](https://www.webrebels.org) | May 21st - 22nd | Unknown | Oslo, Norway
 [DEVit Web Conference](http://devitconf.org/) | May 15th | Unknown | Thessaloniki, Greece
