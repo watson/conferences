@@ -67,6 +67,7 @@ Conference | Dates | Proposals | Location
 [BuzzJS](https://buzzjs.com) | Jun 15th - 14th | Unknown | New York City, NY, USA
 [Web Rebels](https://www.webrebels.org) | Jun 4th - 5th | TBA | Oslo, Norway
 [JSConf EU](https://2018.jsconf.eu/) | Jun 2nd - 3rd | [Jan 1st](https://2018.jsconf.eu/call-for-speakers/) | Berlin, Germany
+[HolyJS](https://holyjs-piter.ru/en/) | May 18th - 20th | Unknown | Saint Petersburg, Russia
 [ScaleConf Colombia](https://2018.scaleconfco.com/) | Apr 27th - 28th | [Jan 15th](https://scaleconfco.com/#cfp) | Medellin, Colombia
 [JSUnconf](https://2018.jsunconf.eu) | Apr 21st – 22nd | N/A | Hamburg, Germany
 [Forward JS: Ottawa](https://forwardjs.com/ottawa) | Apr 3rd - 6th | Unknown | Ottawa, ON, Canada
