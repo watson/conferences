@@ -19,7 +19,7 @@ Conference | Dates | Proposals | Location
 Conference | Dates | Proposals | Location
 -----------|-------|-----------|----------
 [CC Congress](http://events.ccc.de) | Dec 27th - 30th | Unknown | Unknown, Germany
-CC Camp | Aug | Unknown | Mildenberg, Germany
+[CC Camp](http://events.ccc.de) | Aug | Unknown | Mildenberg, Germany
 [DEF CON](http://www.defcon.org) | Aug 8th - 11th | Unknown | Las Vegas, NV, USA
 [Bornhack](https://bornhack.dk/bornhack-2019/) | Aug 8th - 15th | [Unknown](https://bornhack.dk/bornhack-2019/program/call-for-participation/) | Bornholm, Denmark
 [OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Jul 15th - 18th | Jan 30th | Portland, OR, USA
