@@ -174,7 +174,7 @@ Conference | Dates | Proposals | Location
 [NodeConf Adventure](http://nodeconf.com)** | Jun 9th - 12th | N/A | Petaluma, CA, USA
 [JSCamp](http://www.jscamp.ro)*** | Jun 7th | N/A | Bucharest, Romania
 [NodeConf Oslo](http://oslo.nodeconf.com)*** | Jun 4th | [Mar 13th](https://github.com/nodeconf/oslo/issues/20) | Oslo, Norway
-[CampJS VII](http://vii.campjs.com) | Jun 3rd – 6th | Unknown | Sydney, NSW, Australia
+[CampJS](http://vii.campjs.com) | Jun 3rd – 6th | Unknown | Sydney, NSW, Australia
 [ScotlandJS](http://scotlandjs.com) | Jun 2nd - 3rd | [Feb 13th](https://www.papercall.io/scotlandjs-2016) | Edinburgh, Scotland
 [Web Rebels](https://www.webrebels.org)** | Jun 2nd - 3rd | N/A | Oslo, Norway
 [CSSConf Nordic](http://cssconf.no)** | Jun 1st | Unknown | Oslo, Norway
@@ -213,7 +213,7 @@ Conference | Dates | Proposals | Location
 [JSConf US Last Call](http://lastcall.jsconf.us)*** | Dec 5th - 6th | [Sep 30th](http://lastcall.jsconf.us/call-for-speakers.html) | Amelia Island, FL, USA
 [Codemotion Spain](http://2015.codemotion.es) | Nov 27th - 28th | [Jun 30th](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5685252034920448) | Madrid, Spain
 [NodeConf Barcelona](http://barcelona.nodeconf.com) | Nov 21th | Unknown | Barcelona, Spain
-[CampJS VI](http://vi.campjs.com) | Nov 20th – 23rd | [Unknown](https://docs.google.com/forms/d/1BlN41m7Qw_ktXXtoUNvQ4PUI-RJ-eDXE3MQGOLb263c/viewform?c=0&w=1) | Springbrook, QLD, Australia
+[CampJS](http://vi.campjs.com) | Nov 20th – 23rd | [Unknown](https://docs.google.com/forms/d/1BlN41m7Qw_ktXXtoUNvQ4PUI-RJ-eDXE3MQGOLb263c/viewform?c=0&w=1) | Springbrook, QLD, Australia
 [JSConf Asia](http://2015.jsconf.asia)* | Nov 19th - 20th | [Unknown](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | Singapore
 [Nodevember](http://nodevember.org)** | Nov 14th - 15th | [Aug 15th](https://www.papercall.io/nodevember) | Nashville, TN, USA
 [NodeFest](http://nodefest.jp/2015/) | Nov 7th | Sep 30th | Tokyo, Japan
@@ -230,7 +230,7 @@ Conference | Dates | Proposals | Location
 [CascadiaFest](http://2015.cascadiajs.com) | Jul 8th - 10th | Unknown | Blaine, WA, USA
 [mloc.js](http://mloc-js.com/2015/) | Jun 18th - 19th | Unknown | Budapest, Hungary
 [NodeConf Adventure](http://nodeconf.com)** | Jun 11th - 14th | N/A | Petaluma, CA, USA
-[CampJS V](http://v.campjs.com) | May 22nd - 25th | Unknown | Melbourne, Australia
+[CampJS](http://v.campjs.com) | May 22nd - 25th | Unknown | Melbourne, Australia
 [NodeConf Oslo ONE-SHOT](http://oslo.nodeconf.com) | May 23rd | Unknown | Oslo, Norway
 [Web Rebels](https://www.webrebels.org) | May 21st - 22nd | Unknown | Oslo, Norway
 [DEVit Web Conference](http://devitconf.org/) | May 15th | Unknown | Thessaloniki, Greece
