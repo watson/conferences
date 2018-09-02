@@ -21,8 +21,8 @@ Conference | Dates | Proposals | Location
 CC Camp | Aug | Unknown | Mildenberg, Germany
 [DEF CON](http://www.defcon.org) | Aug 8th - 11th | Unknown | Las Vegas, NV, USA
 [Bornhack](https://bornhack.dk/bornhack-2019/) | Aug 8th - 15th | [Unknown](https://bornhack.dk/bornhack-2019/program/call-for-participation/) | Bornholm, Denmark
-[FullStack](https://skillsmatter.com/conferences/11213-fullstack-london-2019-the-conference-on-javascript-node-and-internet-of-things) | Jul 10th - 12th | Unknown | London, United Kingdom
 [OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Jul 15th - 18th | Jan 30th | Portland, OR, USA
+[FullStack](https://skillsmatter.com/conferences/11213-fullstack-london-2019-the-conference-on-javascript-node-and-internet-of-things) | Jul 10th - 12th | Unknown | London, United Kingdom
 [JSConf EU](https://2019.jsconf.eu) | Jun 1st - 2nd | Unknown | Berlin, Germany
 [ScaleConf Colombia](https://scaleconfco.com/) | May 17th - 18th | Unknown | Medellin, Colombia
 [JS Kongress](https://js-kongress.de/) | Mar 11th - 12th | Unknown | Munich, Germany
