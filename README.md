@@ -12,6 +12,7 @@ I've also made [a Twitter list](https://twitter.com/wa7son/lists/awesome-confere
 
 Conference | Dates | Proposals | Location | Twitter
 -----------|-------|-----------|----------|---------
+[JS Kongress 2020](https://js-kongress.com) | April 15th - 16th | [Call for Paper](https://sessionize.com/js-kongress-2020/) | Munich, Germany | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/jskongress)
 [CC Congress](https://events.ccc.de) | Dec 27th - 30th | Unknown | Unknown, Germany | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/ccc)
 [DEF CON](https://www.defcon.org) | Jul 30th - Aug 2nd | Unknown | Las Vegas, NV, USA | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/defcon)
 
