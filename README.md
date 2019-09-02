@@ -20,6 +20,7 @@ Conference | Dates | Proposals | Location | Twitter
 Conference | Dates | Proposals | Location | Twitter
 -----------|-------|-----------|----------|---------
 [CC Congress](https://events.ccc.de) | Dec 27th - 30th | Unknown | Unknown, Germany | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/ccc)
+[ConFrontJS 2019](https://2019.confrontjs.com) | Dec 7th | [Nov 1st](https://forms.gle/wVUKK5HbUEC6S9CD9) | Warsaw, Poland | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/confrontjs)
 [CC Camp](https://events.ccc.de) | Aug | Unknown | Mildenberg, Germany | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/ccc)
 [DEF CON](https://www.defcon.org) | Aug 8th - 11th | Unknown | Las Vegas, NV, USA | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/defcon)
 [Bornhack](https://bornhack.dk/bornhack-2019/) | Aug 8th - 15th | [Unknown](https://bornhack.dk/bornhack-2019/program/call-for-participation/) | Bornholm, Denmark | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/BornHax)
