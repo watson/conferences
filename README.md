@@ -14,6 +14,7 @@ Conference | Dates | Proposals | Location | Twitter
 -----------|-------|-----------|----------|---------
 [CC Congress](https://events.ccc.de) | Dec 27th - 30th | Unknown | Unknown, Germany | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/ccc)
 [DEF CON](https://www.defcon.org) | Jul 30th - Aug 2nd | Unknown | Las Vegas, NV, USA | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/defcon)
+[JSConf Budapest 2020](https://jsconfbp.com/) | Sep 24th - 25th | [Feb 29th](https://jsconfbp.com/call-for-speakers) | Budapest, Hungary | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/jsconfbp)
 
 ## 2019
 
